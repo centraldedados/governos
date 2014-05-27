@@ -1,0 +1,58 @@
+{
+  "name": "governos",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "governos-cargos",
+      "path": "data/governos-cargos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 46212,
+      "schema": {
+        "fields": [
+          {
+            "name": "Governo\"|\"MP_id\"|\"Nome deputado\"|\"Nome do cargo\"|\"Data de início\"|\"Data de fim",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "governos-pm",
+      "path": "data/governos-pm.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 1056,
+      "schema": {
+        "fields": [
+          {
+            "name": "GC\"|\"Início\"|\"Fim\"|\"Primeiro-Ministro",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "legislaturas",
+      "path": "data/legislaturas.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 177,
+      "schema": {
+        "fields": [
+          {
+            "name": "Número|Data início|Data fim",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": ""
+}
