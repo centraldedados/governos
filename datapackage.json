@@ -1,9 +1,9 @@
 {
   "name": "governos",
-  "title": "",
-  "homepage": "",
+  "title": "Governos",
+  "homepage": "http://centraldedados.pt/governos",
   "version": "0.1.0",
-  "license": "PDDL-1.0",
+  "license": "ODbL-1.0",
   "resources": [
     {
       "name": "governos-cargos",
@@ -54,5 +54,5 @@
       }
     }
   ],
-  "description": ""
+  "description": "Cargos e outros dados sobre os Governos Constitucionais."
 }
