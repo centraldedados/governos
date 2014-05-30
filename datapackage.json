@@ -4,6 +4,12 @@
   "homepage": "http://centraldedados.pt/governos",
   "version": "0.1.0",
   "license": "ODbL-1.0",
+  "sources": [
+    {
+      "name": "Portal do Governo",
+      "web": "http://www.portugal.gov.pt/pt/o-governo/arquivo-historico/governos-constitucionais.aspx"
+    }  
+  ],
   "resources": [
     {
       "name": "governos-cargos",
