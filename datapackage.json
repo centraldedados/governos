@@ -1,28 +1,49 @@
 {
   "name": "governos",
-  "title": "Governos",
-  "homepage": "http://centraldedados.pt/governos",
-  "version": "0.1.0",
-  "license": "ODbL-1.0",
-  "sources": [
-    {
-      "name": "Portal do Governo",
-      "web": "http://www.portugal.gov.pt/pt/o-governo/arquivo-historico/governos-constitucionais.aspx"
-    }  
-  ],
+  "title": "Governos e Legislaturas",
+  "homepage": "http://centraldedados.pt/datasets/governos",
+  "repository": "git://github.com/centraldedados/governos.git",
+  "version": "0.2.0",
+  "description": "",
+  "license": "PDDL-1.0",
   "resources": [
     {
       "name": "governos-cargos",
       "path": "data/governos-cargos.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 46212,
+      "bytes": 43963,
       "schema": {
         "fields": [
           {
-            "name": "Governo\"|\"MP_id\"|\"Nome deputado\"|\"Nome do cargo\"|\"Data de início\"|\"Data de fim",
+            "name": "num_gov",
+            "type": "integer",
+            "description": "Número do Governo Constitucional"
+          },
+          {
+            "name": "mp_id",
+            "type": "number",
+            "description": "ID de deputado"
+          },
+          {
+            "name": "nome",
             "type": "string",
-            "description": ""
+            "description": "Nome"
+          },
+          {
+            "name": "cargo",
+            "type": "string",
+            "description": "Cargo"
+          },
+          {
+            "name": "data_inicio",
+            "type": "date",
+            "description": "Data de início"
+          },
+          {
+            "name": "data_fim",
+            "type": "date",
+            "description": "Data de fim"
           }
         ]
       }
@@ -32,13 +53,33 @@
       "path": "data/governos-pm.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 1056,
+      "bytes": 973,
       "schema": {
         "fields": [
           {
-            "name": "GC\"|\"Início\"|\"Fim\"|\"Primeiro-Ministro",
+            "name": "num_leg",
+            "type": "integer",
+            "description": "Número da Legislatura"
+          },
+          {
+            "name": "num_gov",
+            "type": "integer",
+            "description": "Número do Governo Constitucional"
+          },
+          {
+            "name": "data_inicio",
+            "type": "date",
+            "description": "Data de início"
+          },
+          {
+            "name": "data_fim",
+            "type": "date",
+            "description": "Data de fim"
+          },
+          {
+            "name": "nome_pm",
             "type": "string",
-            "description": ""
+            "description": "Nome do Primeiro-Ministro"
           }
         ]
       }
@@ -48,17 +89,26 @@
       "path": "data/legislaturas.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 177,
+      "bytes": 165,
       "schema": {
         "fields": [
           {
-            "name": "Número|Data início|Data fim",
-            "type": "string",
-            "description": ""
+            "name": "numero",
+            "type": "integer",
+            "description": "Número da legislatura"
+          },
+          {
+            "name": "inicio",
+            "type": "integer",
+            "description": "Data de início"
+          },
+          {
+            "name": "fim",
+            "type": "integer",
+            "description": "Data de fim"
           }
         ]
       }
     }
-  ],
-  "description": "Cargos e outros dados sobre os Governos Constitucionais."
+  ]
 }
