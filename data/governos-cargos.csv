@@ -1,505 +1,557 @@
-num_gov,nome,mp_id,cargo,data_inicio,data_fim
-1,Mário Soares,3177,Primeiro-Ministro,1976-07-23,1978-01-22
-1,Albérico Santos Machado,,"Subsecretário de Estado da Habitação, Urbanismo e Construção",1976-07-23,1978-01-22
-1,Alfredo Nobre da Costa,,Ministro da Indústria e Tecnologia,1976-07-23,1978-01-22
-1,Alfredo Nobre da Costa,,Ministro da Indústria e Tecnologia,1977-03-25,1978-01-22
-1,Antero Monteiro Dinis,,Subsecretário de Estado Adjunto do Primeiro-Ministro,1976-07-23,1978-01-22
-1,António Azevedo Gomes,,Subsecretário de Estado das Florestas,1976-07-28,1976-11-05
-1,António Barreto,2927,Ministro do Comércio e Turismo,1976-07-23,1977-03-25
-1,António Barreto,2927,Ministro da Agricultura e Pescas,1976-11-05,1978-01-22
-1,António de Almeida Santos,147,Ministro da Justiça,1976-07-23,1978-01-22
-1,António Lopes Cardoso,318,Ministro da Agricultura e Pescas,1976-07-23,1976-11-05
-1,António Maldonado Gonelha,3230,Ministro do Trabalho,1977-03-25,1978-01-22
-1,António Sousa Gomes,3543,Ministro do Plano e Coordenação Económica,1976-07-23,1978-01-22
-1,António Sousa Gomes,3543,Ministro da Indústria e Tecnologia,1977-01-07,1977-03-25
-1,Armando Bacelar,3691,Ministro dos Assuntos Sociais,1976-07-23,1978-01-22
-1,Carlos Mota Pinto,3273,Ministro do Comércio e Turismo,1977-03-25,1978-01-22
-1,Custódio Simões,,Subsecretário de Estado do Trabalho,1976-07-28,1977-10-12
-1,Eduardo Pereira,164,"Ministro da Habitação, Urbanismo e Construção",1976-07-23,1978-01-22
-1,Emílio Rui Vilar,3690,Ministro dos Transportes e Comunicações,1976-07-23,1978-01-22
-1,Eurico Ferreira Nunes,,Subsecretário de Estado das Finanças,1977-03-25,1978-01-22
-1,Francisco Marcelo Curto,3186,Ministro do Trabalho,1976-07-23,1977-03-25
-1,Henrique de Barros,3656,Ministro de Estado,1976-07-23,1978-01-22
-1,Henrique Medina Carreira,,Ministro das Finanças,1976-07-23,1978-01-22
-1,Hugo Gonçalves Rocha,,Subsecretário de Estado da Administração Interna,1976-07-28,1977-10-12
-1,João Almeida Pina,,Ministro das Obras Públicas,1976-07-23,1978-01-22
-1,João Soares Louro,3802,Subsecretário de Estado da Comunicação Social,1976-07-28,1977-03-25
-1,Jorge Campinos,3180,Ministro sem Pasta,1976-07-23,1978-01-22
-1,José Achando Cabral,,Subsecretário de Estado do Tesouro,1976-07-28,1977-03-25
-1,José Medeiros Ferreira,1467,Ministro dos Negócios Estrangeiros,1976-07-23,1977-10-12
-1,Ludovico Cândido,,Subsecretário de Estado do Orçamento,1977-03-25,1978-01-22
-1,Manuel da Costa Brás,,Ministro da Administração Interna,1976-07-23,1978-01-22
-1,Mário Firmino Miguel,,Ministro da Defesa Nacional,1976-07-23,1978-01-22
-1,Mário Soares,3177,Ministro dos Negócios Estrangeiros,1977-10-12,1978-01-22
-1,Mário Sottomayor Cardia,3055,Ministro da Educação e Investigação Científica,1976-07-23,1978-01-22
-1,Walter Rosa,3183,Ministro da Indústria e Tecnologia,1976-07-23,1977-01-07
-2,Mário Soares,3177,Primeiro-Ministro,1978-01-23,1978-08-27
-2,Alberto Oliveira e Silva,233,Ministro da Administração Interna,1978-01-30,1978-02-27
-2,Alexandre Sobral Torres,,Subsecretário de Estado Adjunto do Ministro das Finanças e Plano,1978-02-06,1978-08-27
-2,António Arnault,,Ministro dos Assuntos Sociais,1978-01-30,1978-08-27
-2,António de Almeida Santos,147,Ministro Adjunto do Primeiro Ministro,1978-01-30,1978-08-27
-2,António Maldonado Gonelha,3230,Ministro do Trabalho,1978-01-30,1978-08-27
-2,Mário Firmino Miguel,,Ministro da Defesa Nacional,1978-01-30,1978-08-27
-2,António Sousa Gomes,,Ministro da Habitação e Obras Públicas,1978-01-30,1978-08-27
-2,Basílio Horta,1740,Ministro do Comércio e Turismo,1978-01-30,1978-08-27
-2,Carlos Melancia,3154,Ministro da Indústria e Tecnologia,1978-01-30,1978-08-27
-2,Jaime Gama,173,Ministro da Administração Interna,1978-02-27,1978-08-27
-2,José de Oliveira Marques,,Subsecretário de Estado do Tesouro,1978-02-27,1978-08-27
-2,Ludovico Cândido,,Subsecretário de Estado do Orçamento,1978-02-06,1978-08-27
-2,José Santos Pais,,Ministro da Justiça,1978-01-30,1978-08-27
-2,Luís Saias,3200,Ministro da Agricultura e Pescas,1978-01-30,1978-08-27
-2,Manuel Ferreira Lima,3698,Ministro dos Transportes e Comunicações,1978-01-30,1978-08-27
-2,Mário Sottomayor Cardia,3055,Ministro da Educação e Cultura,1978-02-27,1978-08-27
-2,Raúl Junqueiro,3068,Subsecretário de Estado Adjunto do Ministro da Educação e Cultura,1978-06-21,1978-08-27
-2,Rui Pena,3601,Ministro da Reforma Administrativa,1978-01-30,1978-08-27
-2,Vitor Constâncio,3083,Ministro das Finanças e Plano,1978-01-30,1978-08-27
-2,Vítor Sá Machado,,Ministro dos Negócios Estrangeiros,1978-01-30,1978-08-27
-3,Alfredo Nobre da Costa,,Primeiro-Ministro,1978-08-28,1978-11-20
-3,Carlos Costa Freitas,,Ministro Adjunto do Primeiro Ministro,1978-08-28,1978-11-20
-3,Mário Firmino Miguel,,Ministro da Defesa Nacional,1978-08-28,1978-11-20
-3,José da Silva Lopes,,Ministro das Finanças e Plano,1978-08-28,1978-11-20
-3,António Gonçalves Ribeiro,,Ministro da Administração Interna,1978-08-28,1978-11-20
-3,Mário Raposo,3054,Ministro da Justiça,1978-08-28,1978-11-20
-3,Carlos Corrêa Gago,2953,Ministro dos Negócios Estrangeiros,1978-08-28,1978-11-20
-3,Apolinário Vaz Portugal,,Ministro da Agricultura e Pescas,1978-08-28,1978-11-20
-3,Fernando Santos Martins,,Ministro da Indústria e Tecnologia,1978-08-28,1978-11-20
-3,Pedro Pires de Miranda,,Ministro do Comércio e Turismo,1978-08-28,1978-11-20
-3,António da Costa Leal,,Ministro do Trabalho,1978-08-28,1978-11-20
-3,Carlos Lloyd Braga,,Ministro da Educação e Cultura,1978-08-28,1978-11-20
-3,Acácio Pereira Magro,,Ministro dos Assuntos Sociais,1978-08-28,1978-11-20
-3,Amílcar Marques,,Ministro dos Transportes e Comunicações,1978-08-28,1978-11-20
-3,João Almeida Pina,,Ministro da Habitação e Obras Públicas,1978-08-28,1978-11-20
-3,Carlos Moura Pulido,,Subsecretário de Estado Adjunto do Ministro da Educação e Cultura,1978-09-07,1978-11-20
-3,Ludovico Cândido,,Subsecretário de Estado do Orçamento,1978-09-07,1978-11-20
-4,Carlos Mota Pinto,3273,Primeiro-Ministro,1978-11-21,1979-07-30
-4,Álvaro Monjardino,,Ministro Adjunto do Primeiro Ministro,1978-11-21,1979-07-30
-4,José Alberto Loureiro dos Santos,,Ministro da Defesa Nacional,1978-11-21,1979-07-30
-4,Manuel Jacinto Nunes,,Ministro das Finanças e Plano,1978-11-21,1979-07-30
-4,Manuel Jacinto Nunes,,Vice Primeiro-Ministro de Assuntos Económicos e Integração Europeia,1978-11-21,1979-07-30
-4,António Gonçalves Ribeiro,,Ministro da Administração Interna,1978-11-21,1979-07-30
-4,Eduardo Silva Correia,,Ministro da Justiça,1978-11-21,1979-07-30
-4,João de Freitas Cruz,,Ministro dos Negócios Estrangeiros,1978-11-21,1979-07-30
-4,Apolinário Vaz Portugal,,Ministro da Agricultura e Pescas,1978-11-21,1979-07-30
-4,Álvaro Barreto,9,Ministro da Indústria e Tecnologia,1978-11-21,1979-07-30
-4,Abel Repolho Correia,,Ministro do Comércio e Turismo,1978-11-21,1979-07-30
-4,Eusébio Marques de Carvalho,,Ministro do Trabalho,1978-11-21,1979-07-30
-4,Luís Valente de Oliveira,376,Ministro da Educação e Investigação Científica,1978-11-21,1979-07-30
-4,Acácio Pereira Magro,,Ministro dos Assuntos Sociais,1978-11-21,1979-07-30
-4,José Marques da Costa,,Ministro dos Transportes e Comunicações,1978-11-21,1979-07-30
-4,João Almeida Pina,,Ministro da Habitação e Obras Públicas,1978-11-21,1979-07-30
-4,Daniel Proença de Carvalho,,Ministro do Comunicação Social,1978-11-21,1979-07-30
-4,José Lima de Carvalho,,Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas,1978-11-21,1979-07-30
-4,Carlos Alberto Rosa,3572,Subsecretário de Estado Adjunto do Ministro da Educação e Investigação Científica,1978-11-21,1979-07-30
-4,António Daniel,,Subsecretário de Estado da Administração Escolar,1978-11-21,1979-07-30
-4,António Joaquim Carvalho,,Subsecretário de Estado do Orçamento,1978-11-21,1979-07-30
-5,Maria de Lurdes Pintasilgo,,Primeiro-Ministro,1079-07-31,1980-01-02
-5,Manuel da Costa Brás,,Ministro Adjunto para a Administração Interna,1079-07-31,1980-01-02
-5,Alfredo Bruto da Costa,,Ministro da Coordenação Social e dos Assuntos Sociais,1079-07-31,1980-01-02
-5,Alfredo Bruto da Costa,,Ministro dos Assuntos Sociais,1079-07-31,1980-01-02
-5,José Alberto Loureiro dos Santos,,Ministro da Defesa Nacional,1079-07-31,1980-01-02
-5,João de Freitas Cruz,,Ministro dos Negócios Estrangeiros,1079-07-31,1980-01-02
-5,Pedro Sousa Macedo,,Ministro da Justiça,1079-07-31,1980-01-02
-5,António Sousa Franco,3526,Ministro das Finanças,1079-07-31,1980-01-02
-5,Carlos Corrêa Gago,2953,Ministro da Coordenação Económica e do Plano,1079-07-31,1980-01-02
-5,Joaquim da Silva Lourenço,3805,Ministro da Agricultura e Pescas,1079-07-31,1980-01-02
-5,Fernando Videira,,Ministro da Indústria,1079-07-31,1980-01-02
-5,Acácio Pereira Magro,,Ministro do Comércio e Turismo,1079-07-31,1980-01-02
-5,Jorge Sá Borges,,Ministro do Trabalho,1079-07-31,1980-01-02
-5,Frederico Monteiro da Silva,,Ministro dos Transportes e Comunicações,1079-07-31,1980-01-02
-5,Mário de Azevedo,,Ministro da Habitação e Obras Públicas,1079-07-31,1980-01-02
-5,Luís Veiga da Cunha,,Ministro da Educação,1079-07-31,1980-01-02
-5,João Figueiredo,,Ministro da Comunicação Social,1079-07-31,1980-01-02
-5,José Lima de Carvalho,,Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas,1079-07-31,1980-01-02
-5,José Varela Pinto,,Subsecretário de Estado Adjunto do Ministro dos Transportes e Comunicações,1079-07-31,1980-01-02
-5,Adérito Sedas Nunes,,"Ministro da Coordenação Cultural, Cultura e Ciência",1079-08-07,1980-01-02
-5,Adérito Sedas Nunes,,Ministro da Cultura e Ciência,1079-08-07,1980-01-02
-6,Francisco Sá Carneiro,,Primeiro-Ministro,1980-01-03,1980-12-04
-6,Diogo Freitas do Amaral,588,Vice Primeiro-Ministro,1980-12-04,1981-01-08
-6,Diogo Freitas do Amaral,588,Primeiro-Ministro interino,1980-12-04,1981-01-08
-6,Diogo Freitas do Amaral,588,Ministro dos Negócios Estrangeiros,1980-01-03,1981-01-08
-6,Francisco Pinto Balsemão,3158,Ministro Adjunto do Primeiro Ministro,1980-01-03,1981-01-08
-6,Eurico de Melo,256,Ministro da Administração Interna,1980-01-03,1981-01-08
-6,Adelino Amaro da Costa,,Ministro da Defesa,1980-01-03,1980-12-04
-6,Mário Raposo,,Ministro da Justiça,1980-01-03,1981-01-08
-6,Aníbal Cavaco Silva,312,Ministro das Finanças e Plano,1980-01-03,1981-01-08
-6,Vítor Pereira Crespo,140,Ministro da Educação e Ciência,1980-01-03,1981-01-08
-6,Eusébio Marques de Carvalho,,Ministro do Trabalho,1980-01-03,1981-01-08
-6,João Morais Leitão,,Ministro dos Assuntos Sociais,1980-01-03,1981-01-08
-6,António Cardoso e Cunha,3215,Ministro da Agricultura e Pescas,1980-01-03,1981-01-08
-6,Basílio Horta,1740,Ministro do Comércio e Turismo,1980-01-03,1981-01-08
-6,Álvaro Barreto,9,Ministro da Indústria e Energia,1980-01-03,1981-01-08
-6,João Porto,,Ministro da Habitação e Obras Públicas,1980-01-03,1981-01-08
-6,José Carlos Viana Baptista,,Ministro dos Transportes e Comunicações,1980-01-03,1981-01-08
-7,Francisco Pinto Balsemão,3158,Primeiro-Ministro,1981-01-09,1981-09-03
-7,Basílio Horta,1740,Ministro de Estado Adjunto do Primeiro-Ministro,1981-01-09,1981-09-03
-7,Fernando do Amaral,49,Ministro da Administração Interna,1981-01-09,1981-09-03
-7,Luís de Azevedo Coutinho,3588,Ministro da Defesa Nacional,1981-01-09,1981-09-03
-7,André Gonçalves Pereira,,Ministro dos Negócios Estrangeiros,1981-01-09,1981-09-03
-7,José Menéres Pimentel,,Ministro da Justiça,1981-01-09,1981-09-03
-7,João Morais Leitão,,Ministro das Finanças e Plano,1981-01-09,1981-09-03
-7,Vitor Pereira Crespo,140,Ministro da Educação e Ciência,1981-01-09,1981-09-03
-7,Henrique Nascimento Rodrigues,3059,Ministro do Trabalho,1981-01-09,1981-09-03
-7,Carlos Chaves de Macedo,2957,Ministro dos Assuntos Sociais,1981-01-09,1981-09-03
-7,António Cardoso e Cunha,3215,Ministro da Agricultura e Pescas,1981-01-09,1981-09-03
-7,Alexandre Vaz Pinto,,Ministro do Comércio e Turismo,1981-01-09,1981-09-03
-7,Ricardo Bayão Horta,,Ministro da Indústria e Energia,1981-01-09,1981-09-03
-7,Luís Barbosa,3420,Ministro da Habitação e Obras Públicas,1981-01-09,1981-09-03
-7,José Carlos Viana Baptista,,Ministro dos Transportes e Comunicações,1981-01-09,1981-09-03
-7,João Vaz Serra de Moura,,Ministro da Qualidade de Vida,1981-08-03,1981-09-03
-7,Augusto Ferreira do Amaral,3264,Ministro da Qualidade de Vida,1981-01-09,1981-08-03
-7,Álvaro Barreto,9,Ministro da Integração Europeia,1981-01-09,1981-09-03
-7,José Bento Gonçalves,3288,Subsecretário de Estado do Fomento Cooperativo,1981-01-09,1981-09-03
-7,Maria de Lurdes Orfão,,Subsecretário de Estado do Orçamento,1981-01-09,1981-09-03
-7,Eusébio Marques de Carvalho,,Ministro da Reforma Administrativa,1981-01-09,1981-09-03
-8,Francisco Pinto Balsemão,3158,Primeiro-Ministro,1981-09-04,1983-06-08
-8,Diogo Freitas do Amaral,588,Ministro da Defesa Nacional,1981-09-04,1983-06-08
-8,Diogo Freitas do Amaral,588,Vice Primeiro-Ministro,1981-09-04,1983-06-08
-8,Gonçalo Ribeiro Telles,,Ministro de Estado e da Qualidade de Vida,1981-09-04,1983-06-08
-8,João Salgueiro,3270,"Ministro de Estado, das Finanças e do Plano",1981-09-04,1983-06-08
-8,Marcelo Rebelo de Sousa,,Ministro dos Assuntos Parlamentares,1982-06-12,1983-06-08
-8,Fernando do Amaral,49,Ministro Adjunto do Primeiro Ministro e dos Assuntos Parlamentares,1981-09-04,1982-06-12
-8,Ângelo Correia,,Ministro da Administração Interna,1981-09-04,1983-06-08
-8,Vasco Futscher Pereira,,Ministro dos Negócios Estrangeiros,1982-06-09,1983-06-08
-8,André Gonçalves Pereira,,Ministro dos Negócios Estrangeiros,1981-09-04,1982-06-09
-8,José Menéres Pimentel,,Ministro da Justiça e da Reforma Administrativa,1981-09-04,1983-06-08
-8,João Fraústo da Silva,,Ministro da Educação e das Universidades,1982-06-12,1983-06-08
-8,Vitor Pereira Crespo,140,Ministro da Educação e das Universidades,1981-09-04,1982-06-12
-8,Luís Morales,,Ministro do Trabalho,1982-06-12,1983-06-08
-8,António Queirós Martins,,Ministro do Trabalho,1981-09-04,1982-06-12
-8,Luís Barbosa,3420,Ministro dos Assuntos Sociais,1981-09-04,1983-06-08
-8,Basílio Horta,1740,"Ministro da Agricultura, Comércio e Pescas",1981-09-04,1983-06-08
-8,Ricardo Bayão Horta,,"Ministro da Indústria, Energia e Exportação",1981-09-04,1983-06-08
-8,Francisco Lucas Pires,1429,Ministro da Cultura e Coordenação Científica,1981-09-04,1983-06-08
-8,José Carlos Viana Baptista,,"Ministro da Habitação, Obras Públicas e Transportes",1981-09-04,1983-06-08
-8,Luísa Antas,,Subsecretário de Estado Adjunto do Ministro dos Assuntos Parlamentares,1981-09-04,1983-06-08
-8,René Rodrigues da Silva,,Subsecretário de Estado da Administração Escolar,1982-06-12,1983-06-08
-8,Amadeu Sá Menezes,3559,Subsecretário de Estado da Agricultura,1982-06-12,1983-06-08
-8,Manuel Santana Castilho,,Subsecretário de Estado dos Assuntos Pedagógicos,1982-06-12,1983-06-08
-8,Maria de Lurdes Orfão,,Subsecretário de Estado do Orçamento,1981-09-04,1983-06-08
-8,Albino de Azevedo Soares,,Subsecretário de Estado da Presidência do Conselho de Ministros,1981-09-04,1983-06-08
-8,Maria de Lurdes Orfão,,Subsecretário de Estado do Orçamento,1981-09-04,1983-06-08
-9,Mário Soares,3177,Primeiro-Ministro,1983-06-09,1985-11-05
-9,Rui Machete,134,Vice Primeiro-Ministro,1985-02-15,1985-11-05
-9,Rui Machete,134,Ministro da Defesa Nacional,1985-02-15,1985-11-05
-9,Carlos Mota Pinto,3273,Vice Primeiro-Ministro,1983-06-09,1985-02-15
-9,Carlos Mota Pinto,3273,Ministro da Defesa Nacional,1983-06-09,1985-02-15
-9,António de Almeida Santos,147,Ministro de Estado,1983-06-09,1985-11-05
-9,Eduardo Pereira,164,Ministro da Administração Interna,1983-06-09,1985-11-05
-9,Jaime Gama,173,Ministro dos Negócios Estrangeiros,1983-06-09,1985-11-05
-9,Mário Raposo,3054,Ministro da Justiça,1985-02-15,1985-11-05
-9,Rui Machete,134,Ministro da Justiça,1983-06-09,1985-02-15
-9,Ernâni Lopes,,Ministro das Finanças e Plano,1983-06-09,1985-11-05
-9,João de Deus Pinheiro,334,Ministro da Educação,1985-02-15,1985-11-05
-9,José Augusto Seabra,3203,Ministro da Educação,1983-06-09,1985-02-15
-9,Amândio de Azevedo,3239,Ministro do Trabalho e Segurança Social,1983-06-09,1985-11-05
-9,António Maldonado Gonelha,3230,Ministro da Saúde,1983-06-09,1985-11-05
-9,Álvaro Barreto,9,Ministro da Agricultura,1984-10-17,1985-11-05
-9,Manuel Soares Costa,3042,"Ministro da Agricultura, Florestas e Alimentação",1983-06-09,1984-10-17
-9,José Veiga Simão,3147,Ministro da Indústria e Energia,1983-06-09,1985-11-05
-9,Joaquim Ferreira do Amaral,287,Ministro do Comércio e Turismo,1984-10-17,1985-11-05
-9,Álvaro Barreto,9,Ministro do Comércio e Turismo,1983-06-09,1984-10-17
-9,António Coimbra Martins,3240,Ministro da Cultura,1983-06-09,1985-11-05
-9,Carlos Melancia,3154,Ministro do Equipamento Social,1985-02-15,1985-11-05
-9,João Rosado Correia,3085,Ministro do Equipamento Social,1983-06-09,1985-02-15
-9,Francisco de Sousa Tavares,3465,Ministro da Qualidade de Vida,1984-06-12,1985-11-05
-9,António Capucho,314,Ministro da Qualidade de Vida,1983-06-09,1984-06-12
-9,José de Almeida Serra,,Ministro do Mar,1985-02-15,1985-11-05
-9,Carlos Melancia,3154,Ministro do Mar,1983-06-09,1985-02-15
-9,Alberto Amorim Pereira,,Subsecretário de Estado do Orçamento,1983-06-18,1985-11-05
-10,Aníbal Cavaco Silva,312,Primeiro-Ministro,1985-11-06,1987-08-16
-10,Eurico de Melo,256,Ministro de Estado,1985-11-06,1987-08-16
-10,Eurico de Melo,256,Ministro da Administração Interna,1985-11-06,1987-08-16
-10,Fernando Nogueira,333,Ministro Adjunto e para os Assuntos Parlamentares,1985-11-06,1987-08-16
-10,Leonardo Ribeiro de Almeida,94,Ministro da Defesa Nacional,1985-11-06,1987-08-16
-10,Pedro Pires de Miranda,,Ministro dos Negócios Estrangeiros,1985-11-06,1987-08-16
-10,Miguel José Ribeiro Cadilhe,,Ministro das Finanças,1985-11-06,1987-08-16
-10,Mário Raposo,3054,Ministro da Justiça,1985-11-06,1987-08-16
-10,Luís Valente de Oliveira,376,Ministro do Plano e Administração do Território,1985-11-06,1987-08-16
-10,Álvaro Barreto,9,"Ministro da Agricultura, Pescas e Alimentação",1985-11-06,1987-08-16
-10,Fernando Santos Martins,,Ministro da Indústria e Comércio,1985-11-06,1987-08-16
-10,João de Deus Pinheiro,334,Ministro da Educação e Cultura,1985-11-06,1987-08-16
-10,João Maria Oliveira Martins,69,"Ministro das Obras Públicas, Transportes e Comunicações",1985-11-06,1987-08-16
-10,Leonor Beleza,114,Ministro da Saúde,1985-11-06,1987-08-16
-10,Luís Mira Amaral,348,Ministro do Trabalho e Segurança Social,1985-11-06,1987-08-16
-11,Aníbal Cavaco Silva,312,Primeiro-Ministro,1987-08-17,1991-10-30
-11,Fernando Nogueira,333,Ministro da Presidência,1987-08-17,1991-10-30
-11,Fernando Nogueira,333,Ministro da Defesa Nacional,1990-03-05,1991-10-30
-11,Carlos Brito,,Ministro da Defesa Nacional,1990-01-05,1990-03-05
-11,Eurico de Melo,256,Ministro da Defesa Nacional,1987-08-17,1990-01-05
-11,Eurico de Melo,256,Vice Primeiro-Ministro,1987-08-17,1990-01-05
-11,Manuel Dias Loureiro,300,Ministro dos Assuntos Parlamentares,1990-01-05,1991-10-30
-11,António Capucho,314,Ministro dos Assuntos Parlamentares,1987-08-17,1991-10-30
-11,Miguel Beleza,,Ministro das Finanças,1990-01-05,1991-10-30
-11,Miguel José Ribeiro Cadilhe,,Ministro das Finanças,1987-08-17,1990-01-05
-11,Luís Valente de Oliveira,376,Ministro do Planeamento e Administração do Território,1987-08-17,1991-10-30
-11,Manuel Pereira,,Ministro da Administração Interna,1990-01-05,1991-10-30
-11,José Silveira Godinho,,Ministro da Administração Interna,1987-08-17,1990-01-05
-11,Álvaro Laborinho Lúcio,306,Ministro da Justiça,1990-03-05,1991-10-30
-11,Fernando Nogueira,333,Ministro da Justiça,1987-08-17,1991-10-30
-11,João de Deus Pinheiro,334,Ministro dos Negócios Estrangeiros,1987-08-17,1991-10-30
-11,Arlindo Cunha,335,"Ministro da Agricultura, Pescas e Alimentação",1990-01-05,1991-10-30
-11,Álvaro Barreto,9,"Ministro da Agricultura, Pescas e Alimentação",1987-08-17,1990-01-05
-11,Luís Mira Amaral,348,Ministro da Indústria e Energia,1987-08-17,1991-10-30
-11,Roberto Carneiro,,Ministro da Educação,1987-08-17,1991-10-30
-11,Joaquim Ferreira do Amaral,287,"Ministro das Obras Públicas, Transportes e Comunicações",1990-11-09,1991-10-30
-11,João Maria Oliveira Martins,69,"Ministro das Obras Públicas, Transportes e Comunicações",1987-08-17,1990-11-09
-11,Arlindo de Carvalho,335,Ministro da Saúde,1990-01-05,1991-10-30
-11,Leonor Beleza,114,Ministro da Saúde,1987-08-17,1990-01-05
-11,José Silva Peneda,270,Ministro do Emprego e da Segurança Social,1987-08-17,1991-10-30
-11,Fernando Faria de Oliveira,,Ministro do Comércio e Turismo,1990-11-09,1991-10-30
-11,Joaquim Ferreira do Amaral,287,Ministro do Comércio e Turismo,1987-08-17,1990-11-09
-11,António Couto dos Santos,356,Ministro Adjunto da Juventude,1987-08-17,1991-10-30
-11,Carlos Borrego,,Ministro do Ambiente e Recursos Naturais,1991-04-24,1991-10-30
-11,Fernando Real,,Ministro do Ambiente e Recursos Naturais,1990-01-05,1991-10-30
-11,Duarte Ivo Cruz,,Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros,1990-03-05,1991-10-30
-11,Luís Marques Guedes,1239,Subsecretário de Estado da Presidência do Conselho de Ministros,1990-01-09,1991-10-30
-11,Isabel Corte Real,,Subsecretário de Estado da Modernização Administrativa,1989-01-31,1991-10-30
-12,Aníbal Cavaco Silva,312,Primeiro-Ministro,1991-10-31,1995-10-27
-12,Luís Marques Mendes,370,Ministro Adjunto,1992-03-19,1995-10-27
-12,António Couto dos Santos,356,Ministro Adjunto e dos Assuntos Parlamentares,1991-10-31,1992-03-19
-12,Fernando Nogueira,333,Ministro da Presidência,1991-10-31,1995-10-27
-12,António Figueiredo Lopes,1441,Ministro da Defesa Nacional,1995-03-16,1995-10-27
-12,Fernando Nogueira,333,Ministro da Defesa Nacional,1991-10-31,1995-03-16
-12,Manuel Dias Loureiro,300,Ministro da Administração Interna,1991-10-31,1995-10-27
-12,Eduardo Catroga,,Ministro das Finanças,1993-12-07,1995-10-27
-12,Jorge Braga de Macedo,,Ministro das Finanças,1991-10-31,1993-12-07
-12,Luís Valente de Oliveira,376,Ministro do Planeamento e Administração do Território,1991-10-31,1995-10-27
-12,Álvaro Laborinho Lúcio,306,Ministro da Justiça,1991-10-31,1995-10-27
-12,José Manuel Durão Barroso,383,Ministro dos Negócios Estrangeiros,1992-11-12,1995-10-27
-12,João de Deus Pinheiro,334,Ministro dos Negócios Estrangeiros,1991-10-31,1992-11-12
-12,António Duarte Silva,,Ministro da Agricultura,1994-05-21,1995-10-27
-12,Arlindo Cunha,335,Ministro da Agricultura,1991-10-31,1994-05-21
-12,António Duarte Silva,,Ministro do Mar,1995-03-16,1995-10-27
-12,Eduardo Azevedo Soares,,Ministro do Mar,1991-10-31,1995-03-16
-12,Luís Mira Amaral,348,Ministro da Indústria e Energia,1991-10-31,1995-10-27
-12,Manuela Ferreira Leite,319,Ministro da Educação,1993-12-07,1995-10-27
-12,António Couto dos Santos,356,Ministro da Educação,1992-03-19,1993-12-07
-12,Diamantino Durão,,Ministro da Educação,1991-10-31,1992-03-19
-12,Joaquim Ferreira do Amaral,287,"Ministro das Obras Públicas, Transportes e Comunicações",1991-10-31,1995-10-27
-12,Paulo Mendo,1234,Ministro da Saúde,1993-12-07,1995-10-27
-12,Arlindo de Carvalho,335,Ministro da Saúde,1991-10-31,1993-12-07
-12,José Falcão e Cunha,82,Ministro do Emprego e da Segurança Social,1993-12-07,1995-10-27
-12,José Silva Peneda,270,Ministro do Emprego e da Segurança Social,1991-10-31,1993-12-07
-12,Fernando Faria de Oliveira,,Ministro do Comércio e Turismo,1991-10-31,1995-10-27
-12,Teresa Gouveia,317,Ministra do Ambiente e Recursos Naturais,1993-06-11,1995-10-27
-12,Carlos Borrego,,Ministra do Ambiente e Recursos Naturais,1991-10-31,1993-06-11
-12,Carlos Coelho,,Subsecretário de Estado Adjunto do Ministro da Educação,1994-07-25,1995-10-27
-12,Domingos Jerónimo,,Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros,1992-11-12,1995-10-27
-12,Manuel Frexes,1434,Subsecretário de Estado da Cultura,1992-11-12,1995-10-27
-12,Luís Marques Guedes,1239,Subsecretário de Estado Adjunto do Primeiro-Ministro,1991-11-05,1993-12-07
-12,Vasco Valdez,,Subsecretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento,1991-11-05,1993-12-07
-12,Duarte Ivo Cruz,,Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros,1991-11-05,1992-11-12
-12,José Manuel Costa e Oliveira,,Subsecretário de Estado Adjunto Ministro da Agricultura,1991-11-05,1993-12-07
-12,Amândio Oliveira,,Subsecretário de Estado Adjunto do Secretário de Estado da Presidência do Conselho de Ministros,1991-11-05,1995-10-27
-12,Maria José Nogueira Pinto,1084,Subsecretário de Estado Adjunto do Secretário de Estado para a Cultura,1991-11-05,1992-11-12
-12,António Sousa Lara,,Subsecretário de Estado da Cultura,1991-11-05,1992-11-12
-12,Paulo Teixeira Pinto,,Subsecretário de Estado da Presidência do Conselho de Ministros,1991-11-05,1992-06-09
-13,António Guterres,628,Primeiro-Ministro,1995-10-28,1999-10-24
-13,José Sócrates,285,Ministro Adjunto do Primeiro Ministro,1997-11-25,1999-10-24
-13,António Costa,156,Ministro dos Assuntos Parlamentares,1997-11-25,1999-10-24
-13,Jaime Gama,173,Ministro da Defesa Nacional,1999-05-29,1999-10-24
-13,José da Veiga Simão,,Ministro da Defesa Nacional,1997-11-25,1999-05-29
-13,António Vitorino,1205,Ministro da Defesa Nacional,1995-10-30,1997-11-25
-13,António Vitorino,1205,Ministro da Presidência,1995-10-30,1997-11-25
-13,Jaime Gama,173,Ministro dos Negócios Estrangeiros,1995-10-28,1999-10-24
-13,António Sousa Franco,3526,Ministro das Finanças,1995-10-28,1999-10-24
-13,Jorge Coelho,180,Ministro da Administração Interna,1997-11-25,1999-10-24
-13,Alberto Costa,143,Ministro da Administração Interna,1995-10-30,1997-11-25
-13,Jorge Coelho,180,Ministro Adjunto,1995-10-30,1999-10-24
-13,João Cravinho,459,"Ministro do Equipamento, Planeamento e Administração do Território",1995-10-28,1999-10-24
-13,José Vera Jardim,185,Ministro da Justiça,1995-10-28,1999-10-24
-13,Joaquim Pina Moura,1267,Ministro da Economia,1997-11-25,1999-10-24
-13,Augusto Mateus,,Ministro da Economia,1996-03-27,1997-11-25
-13,Daniel Bessa,1261,Ministro da Economia,1995-10-28,1996-03-27
-13,Luís Capoulas Santos,197,"Ministro da Agricultura, Desenvolvimento Rural e das Pescas",1998-10-03,1999-10-24
-13,Fernando Gomes da Silva,,"Ministro da Agricultura, Desenvolvimento Rural e das Pescas",1995-10-30,1998-10-03
-13,Eduardo Marçal Grilo,,Ministro da Educação,1995-10-28,1999-10-24
-13,Maria de Belém Roseira,1671,Ministro da Saúde,1995-10-28,1999-10-24
-13,Eduardo Ferro Rodrigues,163,Ministro do Trabalho e Solidariedade,1995-10-28,1999-10-24
-13,Elisa Ferreira,1676,Ministro do Ambiente,1995-10-28,1999-10-24
-13,Manuel Maria Carrilho,738,Ministro da Cultura,1995-10-28,1999-10-24
-13,Mariano Gago,,Ministro da Ciência e Tecnologia,1995-10-28,1999-10-24
-13,Henrique Constantino,,Ministro do Equipamento Social,1995-10-30,1995-12-27
-13,Francisco Murteira Nabo,,Ministro do Equipamento Social,1995-12-27,1996-01-15
-13,Maria João Rodrigues,,Ministro da Qualificação e Emprego,1995-10-30,1997-11-25
-14,António Guterres,628,Primeiro-Ministro,1999-10-25,2002-04-05
-14,Jaime Gama,173,Ministro de Estado,1999-10-25,2002-04-05
-14,Jorge Coelho,180,Ministro de Estado,2000-09-14,2001-03-10
-14,Jaime Gama,173,Ministro dos Negócios Estrangeiros,1999-10-25,2002-04-05
-14,Jorge Coelho,180,Ministro da Presidência,1999-10-25,2000-09-14
-14,Guilherme d'Oliveira Martins,170,Ministro da Presidência,2000-09-14,2002-04-05
-14,Guilherme d'Oliveira Martins,170,Ministro das Finanças,2001-07-03,2002-04-05
-14,Joaquim Pina Moura,1267,Ministro das Finanças,1999-10-25,2001-07-03
-14,Rui Pena,3601,Ministro da Defesa Nacional,2001-07-03,2002-04-05
-14,Júlio Castro Caldas,3494,Ministro da Defesa Nacional,1999-10-25,2001-07-03
-14,Nuno Severiano Teixeira,,Ministro da Administração Interna,2000-09-14,2002-04-05
-14,Fernando Gomes,1260,Ministro da Administração Interna,1999-10-25,2000-09-14
-14,Jorge Coelho,180,Ministro do Equipamento Social,1999-10-25,2001-03-10
-14,Eduardo Ferro Rodrigues,163,Ministro do Equipamento Social,2001-03-10,2002-01-23
-14,José Sócrates,285,Ministro do Equipamento Social,2002-01-23,2002-04-05
-14,José Sócrates,285,Ministro do Ambiente e do Ordenamento do Território,1999-10-25,2002-04-05
-14,António Costa,156,Ministro da Justiça,1999-10-25,2002-04-05
-14,Luís Braga da Cruz,2090,Ministro da Economia,2001-07-03,2002-04-05
-14,Mário Cristina de Sousa,,Ministro da Economia,2000-09-14,2001-07-03
-14,Joaquim Pina Moura,,Ministro da Economia,1999-10-25,2000-09-14
-14,Elisa Ferreira,1676,Ministra do Planeamento,1999-10-25,2002-04-05
-14,Luís Capoulas Santos,197,"Ministro da Agricultura, Desenvolvimento Rural e Pescas",1999-10-25,2002-04-05
-14,Guilherme d'Oliveira Martins,170,Ministro da Educação,1999-10-25,2000-09-14
-14,Júlio Pedrosa,,Ministro da Educação,2001-07-03,2002-04-05
-14,Augusto Santos Silva,1278,Ministro da Educação,2000-09-14,2001-07-03
-14,Manuela Arcanjo,,Ministro da Saúde,1999-10-25,2001-07-03
-14,António Correia de Campos,153,Ministro da Saúde,2001-07-03,2002-04-05
-14,Eduardo Ferro Rodrigues,163,Ministro do Trabalho e da Solidariedade,1999-10-25,2001-03-10
-14,Paulo Pedroso,,Ministro do Trabalho e da Solidariedade,2001-03-10,2002-04-05
-14,Manuel Maria Carrilho,738,Ministro da Cultura,1999-10-25,2000-07-12
-14,José Sasportes,,Ministro da Cultura,2000-07-12,2001-07-03
-14,Augusto Santos Silva,1278,Ministro da Cultura,2001-07-03,2002-04-05
-14,Mariano Gago,,Ministro da Ciência e da Tecnologia,1999-10-25,2002-04-05
-14,Alberto Martins,462,Ministro da Reforma do Estado e da Administração Pública,1999-10-25,2002-04-05
-14,José Lello,187,Ministro da Juventude e do Desporto,2000-12-18,2002-04-05
-14,Armando Vara,158,Ministro da Juventude e do Desporto,2000-09-14,2000-12-18
-14,Armando Vara,158,Ministro Adjunto do Primeiro-Ministro,1999-10-25,2000-09-14
-14,António José Seguro,155,Ministro Adjunto do Primeiro-Ministro,2001-07-03,2002-04-05
-14,Fernando Gomes,1260,Ministro Adjunto,1999-10-25,2000-09-14
-14,Maria do Céu Cunha Rego,,Secretário de Estado para a Igualdade,2001-07-04,2002-04-05
-14,Maria de Belém Roseira,1671,Ministro da Igualdade,1999-10-25,2000-09-14
-14,José Magalhães,189,Secretário de Estado dos Assuntos Parlamentares,2000-09-18,2002-04-06
-15,José Manuel Durão Barroso,383,Primeiro-Ministro,2002-04-06,2004-07-16
-15,Manuela Ferreira Leite,319,Ministra de Estado e das Finanças,2002-04-06,2004-07-16
-15,Paulo Portas,1352,Ministro de Estado e da Defesa Nacional,2002-04-06,2004-07-16
-15,António Martins da Cruz,,Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas,2002-04-06,2003-10-09
-15,Teresa Gouveia,317,Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas,2003-10-09,2004-07-16
-15,António Figueiredo Lopes,1441,Ministro da Administração Interna,2002-04-06,2004-07-16
-15,Celeste Cardona,1625,Ministra da Justiça,2002-04-06,2004-07-16
-15,Nuno Morais Sarmento,1980,Ministro da Presidência,2002-04-06,2004-07-16
-15,Luís Marques Mendes,370,Ministro dos Assuntos Parlamentares,2002-04-06,2004-07-16
-15,José Luís Arnaut,1638,Ministro Adjunto do Primeiro-Ministro,2002-04-06,2004-07-16
-15,Carlos Tavares,,Ministro da Economia,2002-04-06,2004-07-16
-15,Armando Sevinate Pinto,,"Ministro da Agricultura, Desenvolvimento Rural e Pescas",2002-04-06,2004-07-16
-15,David Justino,1640,Ministro da Educação,2002-04-06,2004-07-16
-15,Maria da Graça Carvalho,,Ministra da Ciência e do Ensino Superior,2003-10-06,2004-07-16
-15,Pedro Lynce,4085,Ministro da Ciência e do Ensino Superior,2002-04-06,2003-10-06
-15,Pedro Roseta,128,Ministro da Cultura,2002-04-06,2004-07-16
-15,Luís Filipe Pereira,,Ministro da Saúde,2002-04-06,2004-07-16
-15,António Bagão Félix,3399,Ministro da Segurança Social e Trabalho,2002-04-06,2004-07-16
-15,Luís Valente de Oliveira,376,"Ministro das Obras Públicas, Transportes e Habitação",2002-04-06,2003-04-05
-15,António Carmona Rodrigues,,"Ministro das Obras Públicas, Transportes e Habitação",2003-04-05,2004-07-16
-15,Isaltino Morais,,"Ministro das Cidades, Ordenamento do Território e Ambiente",2002-04-06,2003-04-05
-15,Arlindo Cunha,335,"Ministro das Cidades, Ordenamento do Território e Ambiente",2004-05-21,2004-07-16
-15,Amílcar Theias,,"Ministro das Cidades, Ordenamento do Território e Ambiente",2003-04-05,2004-05-21
-16,Pedro Santana Lopes,315,Primeiro-Ministro,2004-07-17,2005-03-11
-16,Álvaro Barreto,9,"Ministro de Estado, das Actividades Económicas e do Trabalho",2004-07-17,2005-03-11
-16,Paulo Portas,1352,Ministro de Estado,2004-07-17,2005-03-11
-16,Paulo Portas,1352,Ministro da Defesa Nacional e dos Assuntos do Mar,2004-07-17,2005-03-11
-16,Nuno Morais Sarmento,1980,Ministro de Estado,2004-07-17,2005-03-11
-16,Nuno Morais Sarmento,1980,Ministro da Presidência,2004-07-17,2005-03-11
-16,António Bagão Félix,3399,Ministro das Finanças e da Administração Pública,2004-07-17,2005-03-11
-16,António Monteiro,,Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas,2004-07-17,2005-03-11
-16,Daniel Sanches,,Ministro da Administração Interna,2004-07-17,2005-03-11
-16,José Pedro Aguiar Branco,2061,Ministro da Justiça,2004-07-17,2005-03-11
-16,José Luís Arnaut,1638,"Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional",2004-07-17,2005-03-11
-16,Carlos da Costa Neves,,"Ministro da Agricultura, Pescas e Florestas",2004-07-17,2005-03-11
-16,Maria do Carmo Seabra,,Ministra da Educação,2004-07-17,2005-03-11
-16,Maria da Graça Carvalho,,"Ministra da Ciência, Inovação e Ensino Superior",2004-07-17,2005-03-11
-16,Luís Filipe Pereira,,Ministro da Saúde,2004-07-17,2005-03-11
-16,Fernando Negrão,1905,"Ministro da Segurança Social, da Família e da Criança",2004-07-17,2005-03-11
-16,António Mexia,,"Ministro das Obras Públicas, Transportes e Comunicações",2004-07-17,2005-03-11
-16,Maria João Bustorff,,Ministra da Cultura,2004-07-17,2005-03-11
-16,Luís Nobre Guedes,1083,Ministro do Ambiente e do Ordenamento do Território,2004-07-17,2005-03-11
-16,Telmo Correia,1655,Ministro do Turismo,2004-07-17,2005-03-11
-16,Rui Gomes da Silva,133,Ministro Adjunto do Primeiro-Ministro,2004-12-02,2005-03-11
-16,Rui Gomes da Silva,133,Ministro dos Assuntos Parlamentares,2004-07-21,2004-12-02
-16,Henrique Chaves,1645,Ministro Adjunto do Primeiro-Ministro,2004-07-17,2004-12-02
-17,José Sócrates,285,Primeiro-Ministro,2005-03-12,2009-10-25
-17,Luís Amado,538,Ministro de Estado,2006-07-03,2009-10-25
-17,Diogo Freitas do Amaral,588,Ministro de Estado,2005-03-12,2006-07-03
-17,Luís Amado,538,Ministro dos Negócios Estrangeiros,2006-07-03,2009-10-25
-17,Diogo Freitas do Amaral,588,Ministro dos Negócios Estrangeiros,2005-03-12,2006-07-03
-17,Teixeira dos Santos,,Ministro de Estado,2005-07-21,2009-10-25
-17,António Costa,156,Ministro de Estado,2005-03-12,2007-05-17
-17,Luís Campos e Cunha,,Ministro de Estado,2005-03-12,2005-07-21
-17,Luís Campos e Cunha,,Ministro das Finanças,2005-03-12,2005-07-21
-17,Teixeira dos Santos,,Ministro das Finanças,2005-07-21,2009-10-25
-17,Manuel Pinho,2050,Ministro da Economia e da Inovação,2005-03-12,2009-07-06
-17,Teixeira dos Santos,,Ministro da Economia e da Inovação,2009-07-06,2009-10-25
-17,Pedro Silva Pereira,2011,Ministro da Presidência,2005-03-12,2009-10-25
-17,Luís Amado,538,Ministro da Defesa Nacional,2005-03-12,2006-07-03
-17,Nuno Severiano Teixeira,,Ministro da Defesa Nacional,2006-07-03,2009-10-25
-17,Rui Pereira,,Ministro da Administração Interna,2007-05-17,2009-10-25
-17,António Costa,156,Ministro da Administração Interna e da Justiça,2005-03-12,2007-05-17
-17,Francisco Nunes Correia,,"Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional",2005-03-12,2009-10-25
-17,Jaime Silva,,"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",2005-03-12,2009-10-25
-17,Mário Lino,,"Ministro das Obras Públicas, Transportes e Comunicações",2005-03-12,2009-10-25
-17,José Vieira da Silva,1867,Ministro do Trabalho e da Solidariedade Social,2005-03-12,2009-10-25
-17,António Correia de Campos,153,Ministra da Saúde,2005-03-12,2008-01-30
-17,Ana Jorge,3986,Ministra da Saúde,2008-01-30,2009-10-25
-17,Maria de Lurdes Rodrigues,,Ministra da Educação,2005-03-12,2009-10-25
-17,Mariano Gago,,"Ministro da Ciência, Tecnologia e Ensino Superior",2005-03-12,2009-10-25
-17,Isabel Pires de Lima,1672,Ministro da Cultura,2005-03-12,2008-01-30
-17,José António Pinto Ribeiro,,Ministro da Cultura,2008-01-30,2009-10-25
-17,Augusto Santos Silva,1278,Ministro dos Assuntos Parlamentares,2005-03-12,2009-10-25
-18,José Sócrates,285,Primeiro-Ministro,2009-10-26,2011-06-20
-18,Luís Amado,538,Ministro de Estado e dos Negócios Estrangeiros,2009-10-26,2011-06-20
-18,Teixeira dos Santos,,Ministro de Estado e das Finanças,2009-10-26,2011-06-20
-18,Pedro Silva Pereira,2011,Ministro da Presidência,2009-10-26,2011-06-20
-18,Augusto Santos Silva,1278,Ministro da Defesa Nacional,2009-10-26,2011-06-20
-18,Rui Pereira,,Ministro da Administração Interna,2009-10-26,2011-06-20
-18,Alberto Martins,462,Ministro da Justiça,2009-10-26,2011-06-20
-18,José Vieira da Silva,1867,"Ministro da Economia, da Inovação e do Desenvolvimento",2009-10-26,2011-06-20
-18,António Serrano,,"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas",2009-10-26,2011-06-20
-18,António Mendonça,,"Ministro das Obras Públicas, Transportes e Comunicações",2009-10-26,2011-06-20
-18,Dulce Pássaro,,Ministra do Ambiente e do Ordenamento do Território,2009-10-26,2011-06-20
-18,Helena André,,Ministra do Trabalho e da Solidariedade Social,2009-10-26,2011-06-20
-18,Ana Jorge,3986,Ministra da Saúde,2009-10-26,2011-06-20
-18,Isabel Alçada,,Ministra da Educação,2009-10-26,2011-06-20
-18,Mariano Gago,,"Ministro da Ciência, Tecnologia e Ensino Superior",2009-10-26,2011-06-20
-18,Gabriela Canavilhas,1851,Ministra da Cultura,2009-10-26,2011-06-20
-18,Jorge Lacão,179,Ministro dos Assuntos Parlamentares,2009-10-26,2011-06-20
-19,Pedro Passos Coelho,129,Primeiro-Ministro,2011-06-21,
-19,Vítor Gaspar,,Ministro de Estado e das Finanças,2011-06-21,
-19,Paulo Portas,1352,Ministro de Estado e dos Negócios Estrangeiros,2011-06-21,
-19,José Pedro Aguiar Branco,2061,Ministro da Defesa Nacional,2011-06-21,
-19,Miguel Macedo,123,Ministro da Administração Interna,2011-06-21,
-19,Paula Teixeira da Cruz,4434,Ministra da Justiça,2011-06-21,
-19,Miguel Relvas,124,Ministro Adjunto e dos Assuntos Parlamentares,2011-06-21,
-19,Álvaro Santos Pereira,,Ministro da Economia e do Emprego,2011-06-21,
-19,Assunção Cristas,4057,"Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território",2011-06-21,
-19,Paulo Macedo,,Ministro da Saúde,2011-06-21,
-19,Nuno Crato,,Ministro da Educação e da Ciência,2011-06-21,
-19,Pedro Mota Soares,1102,Ministro da Solidariedade e da Segurança Social,2011-06-21,
-19,Luís Marques Guedes,1239,Secretário de Estado da Presidência do Conselho de Ministros,2011-06-21,
-19,Carlos Moedas,4293,Secretário de Estado Adjunto do Primeiro-Ministro,2011-06-21,
-19,Francisco José Viegas,4310,Secretário de Estado da Cultura,2011-06-21,
-19,Luís Morais Sarmento,,Secretário de Estado do Orçamento,2011-06-21,
-19,Maria Luís Albuquerque,,Secretária de Estado do Tesouro e das Finanças,2011-06-21,
-19,Paulo Núncio,,Secretário de Estado dos Assuntos Fiscais,2011-06-21,
-19,Hélder Rosalino,,Secretário de Estado da Administração Pública,2011-06-21,
-19,Miguel Morais Leitão,,Secretário de Estado Adjunto e dos Assuntos Europeus,2011-06-21,
-19,Luís Brites Pereira,,Secretário de Estado dos Negócios Estrangeiros e da Cooperação,2011-06-21,
-19,José Cesário,,Secretário de Estado das Comunidades Portuguesas,2011-06-21,
-19,Vânia Dias da Silva,,Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros,2011-06-21,
-19,Paulo Braga Lino,,Secretário de Estado Adjunto e da Defesa Nacional,2011-06-21,
-19,Juvenal da Silva Peneda,,Secretário de Estado Adjunto do Ministro da Administração Interna,2011-06-21,
-19,Filipe Lobo d'Ávila,4172,Secretário de Estado da Administração Interna,2011-06-21,
-19,Fernando Santo,,Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça,2011-06-21,
-19,Feliciano Barreiras Duarte,1619,Secretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares,2011-06-21,
-19,Teresa Morais,1897,Secretária de Estado dos Assuntos Parlamentares e da Igualdade,2011-06-21,
-19,Paulo Simões Júlio,,Secretário de Estado da Administração Local e Reforma Administrativa,2011-06-21,
-19,Alexandre Mestre,,Secretário de Estado do Desporto e Juventude,2011-06-21,
-19,António Almeida Henriques,,Secretário de Estado Adjunto da Economia e Desenvolvimento Regional,2011-06-21,
-19,Pedro Silva Martins,,Secretário de Estado do Emprego,2011-06-21,
-19,Carlos Nuno Oliveira,,"Secretário de Estado do Empreendedorismo, Competitividade e Inovação",2011-06-21,
-19,Sérgio Silva Monteiro,,"Secretário de Estado das Obras Públicas, Transportes e Comunicações",2011-06-21,
-19,Artur Trindade,,Secretário de Estado da Energia,2011-06-21,
-19,Cecília Meireles,,Secretária de Estado do Turismo,2011-06-21,
-19,José Diogo Albuquerque,,Secretário de Estado da Agricultura,2011-06-21,
-19,Daniel Campelo,1724,Secretário de Estado das Florestas e Desenvolvimento Rural,2011-06-21,
-19,Manuel Pinto de Abreu,,Secretário de Estado do Mar,2011-06-21,
-19,Pedro Afonso de Paulo,,Secretário de Estado do Ambiente e Ordenamento do Território,2011-06-21,
-19,Fernando Leal da Costa,,Secretário de Estado Adjunto do Ministro da Saúde,2011-06-21,
-19,Manuel Ferreira Teixeira,,Secretário de Estado da Saúde,2011-06-21,
-19,João Filipe Queiró,,Secretário de Estado do Ensino Superior,2011-06-21,
-19,Leonor Parreira,,Secretária de Estado da Ciência,2011-06-21,
-19,João Casanova de Almeida,,Secretário de Estado do Ensino e Administração Escolar,2011-06-21,
-19,Isabel Leite,,Secretária de Estado do Ensino Básico e Secundário,2011-06-21,
-19,Marco António Costa,646,Secretário de Estado da Solidariedade e da Segurança Social,2011-06-21,
+"num_gov","nome","mp_id","cargo","data_inicio","data_fim"
+1,"Mário Soares",3177,"Primeiro-Ministro","1976-07-23","1978-01-22"
+1,"Albérico Santos Machado",,"Subsecretário de Estado da Habitação, Urbanismo e Construção","1976-07-23","1978-01-22"
+1,"Alfredo Nobre da Costa",,"Ministro da Indústria e Tecnologia","1976-07-23","1978-01-22"
+1,"Alfredo Nobre da Costa",,"Ministro da Indústria e Tecnologia","1977-03-25","1978-01-22"
+1,"Antero Monteiro Dinis",,"Subsecretário de Estado Adjunto do Primeiro-Ministro","1976-07-23","1978-01-22"
+1,"António Azevedo Gomes",,"Subsecretário de Estado das Florestas","1976-07-28","1976-11-05"
+1,"António Barreto",2927,"Ministro do Comércio e Turismo","1976-07-23","1977-03-25"
+1,"António Barreto",2927,"Ministro da Agricultura e Pescas","1976-11-05","1978-01-22"
+1,"António de Almeida Santos",147,"Ministro da Justiça","1976-07-23","1978-01-22"
+1,"António Lopes Cardoso",318,"Ministro da Agricultura e Pescas","1976-07-23","1976-11-05"
+1,"António Maldonado Gonelha",3230,"Ministro do Trabalho","1977-03-25","1978-01-22"
+1,"António Sousa Gomes",3543,"Ministro do Plano e Coordenação Económica","1976-07-23","1978-01-22"
+1,"António Sousa Gomes",3543,"Ministro da Indústria e Tecnologia","1977-01-07","1977-03-25"
+1,"Armando Bacelar",3691,"Ministro dos Assuntos Sociais","1976-07-23","1978-01-22"
+1,"Carlos Mota Pinto",3273,"Ministro do Comércio e Turismo","1977-03-25","1978-01-22"
+1,"Custódio Simões",,"Subsecretário de Estado do Trabalho","1976-07-28","1977-10-12"
+1,"Eduardo Pereira",164,"Ministro da Habitação, Urbanismo e Construção","1976-07-23","1978-01-22"
+1,"Emílio Rui Vilar",3690,"Ministro dos Transportes e Comunicações","1976-07-23","1978-01-22"
+1,"Eurico Ferreira Nunes",,"Subsecretário de Estado das Finanças","1977-03-25","1978-01-22"
+1,"Francisco Marcelo Curto",3186,"Ministro do Trabalho","1976-07-23","1977-03-25"
+1,"Henrique de Barros",3656,"Ministro de Estado","1976-07-23","1978-01-22"
+1,"Henrique Medina Carreira",,"Ministro das Finanças","1976-07-23","1978-01-22"
+1,"Hugo Gonçalves Rocha",,"Subsecretário de Estado da Administração Interna","1976-07-28","1977-10-12"
+1,"João Almeida Pina",,"Ministro das Obras Públicas","1976-07-23","1978-01-22"
+1,"João Soares Louro",3802,"Subsecretário de Estado da Comunicação Social","1976-07-28","1977-03-25"
+1,"Jorge Campinos",3180,"Ministro sem Pasta","1976-07-23","1978-01-22"
+1,"José Achando Cabral",,"Subsecretário de Estado do Tesouro","1976-07-28","1977-03-25"
+1,"José Medeiros Ferreira",1467,"Ministro dos Negócios Estrangeiros","1976-07-23","1977-10-12"
+1,"Ludovico Cândido",,"Subsecretário de Estado do Orçamento","1977-03-25","1978-01-22"
+1,"Manuel da Costa Brás",,"Ministro da Administração Interna","1976-07-23","1978-01-22"
+1,"Mário Firmino Miguel",,"Ministro da Defesa Nacional","1976-07-23","1978-01-22"
+1,"Mário Soares",3177,"Ministro dos Negócios Estrangeiros","1977-10-12","1978-01-22"
+1,"Mário Sottomayor Cardia",3055,"Ministro da Educação e Investigação Científica","1976-07-23","1978-01-22"
+1,"Walter Rosa",3183,"Ministro da Indústria e Tecnologia","1976-07-23","1977-01-07"
+2,"Mário Soares",3177,"Primeiro-Ministro","1978-01-23","1978-08-27"
+2,"Alberto Oliveira e Silva",233,"Ministro da Administração Interna","1978-01-30","1978-02-27"
+2,"Alexandre Sobral Torres",,"Subsecretário de Estado Adjunto do Ministro das Finanças e Plano","1978-02-06","1978-08-27"
+2,"António Arnault",,"Ministro dos Assuntos Sociais","1978-01-30","1978-08-27"
+2,"António de Almeida Santos",147,"Ministro Adjunto do Primeiro Ministro","1978-01-30","1978-08-27"
+2,"António Maldonado Gonelha",3230,"Ministro do Trabalho","1978-01-30","1978-08-27"
+2,"Mário Firmino Miguel",,"Ministro da Defesa Nacional","1978-01-30","1978-08-27"
+2,"António Sousa Gomes",,"Ministro da Habitação e Obras Públicas","1978-01-30","1978-08-27"
+2,"Basílio Horta",1740,"Ministro do Comércio e Turismo","1978-01-30","1978-08-27"
+2,"Carlos Melancia",3154,"Ministro da Indústria e Tecnologia","1978-01-30","1978-08-27"
+2,"Jaime Gama",173,"Ministro da Administração Interna","1978-02-27","1978-08-27"
+2,"José de Oliveira Marques",,"Subsecretário de Estado do Tesouro","1978-02-27","1978-08-27"
+2,"Ludovico Cândido",,"Subsecretário de Estado do Orçamento","1978-02-06","1978-08-27"
+2,"José Santos Pais",,"Ministro da Justiça","1978-01-30","1978-08-27"
+2,"Luís Saias",3200,"Ministro da Agricultura e Pescas","1978-01-30","1978-08-27"
+2,"Manuel Ferreira Lima",3698,"Ministro dos Transportes e Comunicações","1978-01-30","1978-08-27"
+2,"Mário Sottomayor Cardia",3055,"Ministro da Educação e Cultura","1978-02-27","1978-08-27"
+2,"Raúl Junqueiro",3068,"Subsecretário de Estado Adjunto do Ministro da Educação e Cultura","1978-06-21","1978-08-27"
+2,"Rui Pena",3601,"Ministro da Reforma Administrativa","1978-01-30","1978-08-27"
+2,"Vitor Constâncio",3083,"Ministro das Finanças e Plano","1978-01-30","1978-08-27"
+2,"Vítor Sá Machado",,"Ministro dos Negócios Estrangeiros","1978-01-30","1978-08-27"
+3,"Alfredo Nobre da Costa",,"Primeiro-Ministro","1978-08-28","1978-11-20"
+3,"Carlos Costa Freitas",,"Ministro Adjunto do Primeiro Ministro","1978-08-28","1978-11-20"
+3,"Mário Firmino Miguel",,"Ministro da Defesa Nacional","1978-08-28","1978-11-20"
+3,"José da Silva Lopes",,"Ministro das Finanças e Plano","1978-08-28","1978-11-20"
+3,"António Gonçalves Ribeiro",,"Ministro da Administração Interna","1978-08-28","1978-11-20"
+3,"Mário Raposo",3054,"Ministro da Justiça","1978-08-28","1978-11-20"
+3,"Carlos Corrêa Gago",2953,"Ministro dos Negócios Estrangeiros","1978-08-28","1978-11-20"
+3,"Apolinário Vaz Portugal",,"Ministro da Agricultura e Pescas","1978-08-28","1978-11-20"
+3,"Fernando Santos Martins",,"Ministro da Indústria e Tecnologia","1978-08-28","1978-11-20"
+3,"Pedro Pires de Miranda",,"Ministro do Comércio e Turismo","1978-08-28","1978-11-20"
+3,"António da Costa Leal",,"Ministro do Trabalho","1978-08-28","1978-11-20"
+3,"Carlos Lloyd Braga",,"Ministro da Educação e Cultura","1978-08-28","1978-11-20"
+3,"Acácio Pereira Magro",,"Ministro dos Assuntos Sociais","1978-08-28","1978-11-20"
+3,"Amílcar Marques",,"Ministro dos Transportes e Comunicações","1978-08-28","1978-11-20"
+3,"João Almeida Pina",,"Ministro da Habitação e Obras Públicas","1978-08-28","1978-11-20"
+3,"Carlos Moura Pulido",,"Subsecretário de Estado Adjunto do Ministro da Educação e Cultura","1978-09-07","1978-11-20"
+3,"Ludovico Cândido",,"Subsecretário de Estado do Orçamento","1978-09-07","1978-11-20"
+4,"Carlos Mota Pinto",3273,"Primeiro-Ministro","1978-11-21","1979-07-30"
+4,"Álvaro Monjardino",,"Ministro Adjunto do Primeiro Ministro","1978-11-21","1979-07-30"
+4,"José Alberto Loureiro dos Santos",,"Ministro da Defesa Nacional","1978-11-21","1979-07-30"
+4,"Manuel Jacinto Nunes",,"Ministro das Finanças e Plano","1978-11-21","1979-07-30"
+4,"Manuel Jacinto Nunes",,"Vice Primeiro-Ministro de Assuntos Económicos e Integração Europeia","1978-11-21","1979-07-30"
+4,"António Gonçalves Ribeiro",,"Ministro da Administração Interna","1978-11-21","1979-07-30"
+4,"Eduardo Silva Correia",,"Ministro da Justiça","1978-11-21","1979-07-30"
+4,"João de Freitas Cruz",,"Ministro dos Negócios Estrangeiros","1978-11-21","1979-07-30"
+4,"Apolinário Vaz Portugal",,"Ministro da Agricultura e Pescas","1978-11-21","1979-07-30"
+4,"Álvaro Barreto",9,"Ministro da Indústria e Tecnologia","1978-11-21","1979-07-30"
+4,"Abel Repolho Correia",,"Ministro do Comércio e Turismo","1978-11-21","1979-07-30"
+4,"Eusébio Marques de Carvalho",,"Ministro do Trabalho","1978-11-21","1979-07-30"
+4,"Luís Valente de Oliveira",376,"Ministro da Educação e Investigação Científica","1978-11-21","1979-07-30"
+4,"Acácio Pereira Magro",,"Ministro dos Assuntos Sociais","1978-11-21","1979-07-30"
+4,"José Marques da Costa",,"Ministro dos Transportes e Comunicações","1978-11-21","1979-07-30"
+4,"João Almeida Pina",,"Ministro da Habitação e Obras Públicas","1978-11-21","1979-07-30"
+4,"Daniel Proença de Carvalho",,"Ministro do Comunicação Social","1978-11-21","1979-07-30"
+4,"José Lima de Carvalho",,"Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas","1978-11-21","1979-07-30"
+4,"Carlos Alberto Rosa",3572,"Subsecretário de Estado Adjunto do Ministro da Educação e Investigação Científica","1978-11-21","1979-07-30"
+4,"António Daniel",,"Subsecretário de Estado da Administração Escolar","1978-11-21","1979-07-30"
+4,"António Joaquim Carvalho",,"Subsecretário de Estado do Orçamento","1978-11-21","1979-07-30"
+5,"Maria de Lurdes Pintasilgo",,"Primeiro-Ministro","1079-07-31","1980-01-02"
+5,"Manuel da Costa Brás",,"Ministro Adjunto para a Administração Interna","1079-07-31","1980-01-02"
+5,"Alfredo Bruto da Costa",,"Ministro da Coordenação Social e dos Assuntos Sociais","1079-07-31","1980-01-02"
+5,"Alfredo Bruto da Costa",,"Ministro dos Assuntos Sociais","1079-07-31","1980-01-02"
+5,"José Alberto Loureiro dos Santos",,"Ministro da Defesa Nacional","1079-07-31","1980-01-02"
+5,"João de Freitas Cruz",,"Ministro dos Negócios Estrangeiros","1079-07-31","1980-01-02"
+5,"Pedro Sousa Macedo",,"Ministro da Justiça","1079-07-31","1980-01-02"
+5,"António Sousa Franco",3526,"Ministro das Finanças","1079-07-31","1980-01-02"
+5,"Carlos Corrêa Gago",2953,"Ministro da Coordenação Económica e do Plano","1079-07-31","1980-01-02"
+5,"Joaquim da Silva Lourenço",3805,"Ministro da Agricultura e Pescas","1079-07-31","1980-01-02"
+5,"Fernando Videira",,"Ministro da Indústria","1079-07-31","1980-01-02"
+5,"Acácio Pereira Magro",,"Ministro do Comércio e Turismo","1079-07-31","1980-01-02"
+5,"Jorge Sá Borges",,"Ministro do Trabalho","1079-07-31","1980-01-02"
+5,"Frederico Monteiro da Silva",,"Ministro dos Transportes e Comunicações","1079-07-31","1980-01-02"
+5,"Mário de Azevedo",,"Ministro da Habitação e Obras Públicas","1079-07-31","1980-01-02"
+5,"Luís Veiga da Cunha",,"Ministro da Educação","1079-07-31","1980-01-02"
+5,"João Figueiredo",,"Ministro da Comunicação Social","1079-07-31","1980-01-02"
+5,"José Lima de Carvalho",,"Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas","1079-07-31","1980-01-02"
+5,"José Varela Pinto",,"Subsecretário de Estado Adjunto do Ministro dos Transportes e Comunicações","1079-07-31","1980-01-02"
+5,"Adérito Sedas Nunes",,"Ministro da Coordenação Cultural, Cultura e Ciência","1079-08-07","1980-01-02"
+5,"Adérito Sedas Nunes",,"Ministro da Cultura e Ciência","1079-08-07","1980-01-02"
+6,"Francisco Sá Carneiro",,"Primeiro-Ministro","1980-01-03","1980-12-04"
+6,"Diogo Freitas do Amaral",588,"Vice Primeiro-Ministro","1980-12-04","1981-01-08"
+6,"Diogo Freitas do Amaral",588,"Primeiro-Ministro interino","1980-12-04","1981-01-08"
+6,"Diogo Freitas do Amaral",588,"Ministro dos Negócios Estrangeiros","1980-01-03","1981-01-08"
+6,"Francisco Pinto Balsemão",3158,"Ministro Adjunto do Primeiro Ministro","1980-01-03","1981-01-08"
+6,"Eurico de Melo",256,"Ministro da Administração Interna","1980-01-03","1981-01-08"
+6,"Adelino Amaro da Costa",,"Ministro da Defesa","1980-01-03","1980-12-04"
+6,"Mário Raposo",,"Ministro da Justiça","1980-01-03","1981-01-08"
+6,"Aníbal Cavaco Silva",312,"Ministro das Finanças e Plano","1980-01-03","1981-01-08"
+6,"Vítor Pereira Crespo",140,"Ministro da Educação e Ciência","1980-01-03","1981-01-08"
+6,"Eusébio Marques de Carvalho",,"Ministro do Trabalho","1980-01-03","1981-01-08"
+6,"João Morais Leitão",,"Ministro dos Assuntos Sociais","1980-01-03","1981-01-08"
+6,"António Cardoso e Cunha",3215,"Ministro da Agricultura e Pescas","1980-01-03","1981-01-08"
+6,"Basílio Horta",1740,"Ministro do Comércio e Turismo","1980-01-03","1981-01-08"
+6,"Álvaro Barreto",9,"Ministro da Indústria e Energia","1980-01-03","1981-01-08"
+6,"João Porto",,"Ministro da Habitação e Obras Públicas","1980-01-03","1981-01-08"
+6,"José Carlos Viana Baptista",,"Ministro dos Transportes e Comunicações","1980-01-03","1981-01-08"
+7,"Francisco Pinto Balsemão",3158,"Primeiro-Ministro","1981-01-09","1981-09-03"
+7,"Basílio Horta",1740,"Ministro de Estado Adjunto do Primeiro-Ministro","1981-01-09","1981-09-03"
+7,"Fernando do Amaral",49,"Ministro da Administração Interna","1981-01-09","1981-09-03"
+7,"Luís de Azevedo Coutinho",3588,"Ministro da Defesa Nacional","1981-01-09","1981-09-03"
+7,"André Gonçalves Pereira",,"Ministro dos Negócios Estrangeiros","1981-01-09","1981-09-03"
+7,"José Menéres Pimentel",,"Ministro da Justiça","1981-01-09","1981-09-03"
+7,"João Morais Leitão",,"Ministro das Finanças e Plano","1981-01-09","1981-09-03"
+7,"Vitor Pereira Crespo",140,"Ministro da Educação e Ciência","1981-01-09","1981-09-03"
+7,"Henrique Nascimento Rodrigues",3059,"Ministro do Trabalho","1981-01-09","1981-09-03"
+7,"Carlos Chaves de Macedo",2957,"Ministro dos Assuntos Sociais","1981-01-09","1981-09-03"
+7,"António Cardoso e Cunha",3215,"Ministro da Agricultura e Pescas","1981-01-09","1981-09-03"
+7,"Alexandre Vaz Pinto",,"Ministro do Comércio e Turismo","1981-01-09","1981-09-03"
+7,"Ricardo Bayão Horta",,"Ministro da Indústria e Energia","1981-01-09","1981-09-03"
+7,"Luís Barbosa",3420,"Ministro da Habitação e Obras Públicas","1981-01-09","1981-09-03"
+7,"José Carlos Viana Baptista",,"Ministro dos Transportes e Comunicações","1981-01-09","1981-09-03"
+7,"João Vaz Serra de Moura",,"Ministro da Qualidade de Vida","1981-08-03","1981-09-03"
+7,"Augusto Ferreira do Amaral",3264,"Ministro da Qualidade de Vida","1981-01-09","1981-08-03"
+7,"Álvaro Barreto",9,"Ministro da Integração Europeia","1981-01-09","1981-09-03"
+7,"José Bento Gonçalves",3288,"Subsecretário de Estado do Fomento Cooperativo","1981-01-09","1981-09-03"
+7,"Maria de Lurdes Orfão",,"Subsecretário de Estado do Orçamento","1981-01-09","1981-09-03"
+7,"Eusébio Marques de Carvalho",,"Ministro da Reforma Administrativa","1981-01-09","1981-09-03"
+8,"Francisco Pinto Balsemão",3158,"Primeiro-Ministro","1981-09-04","1983-06-08"
+8,"Diogo Freitas do Amaral",588,"Ministro da Defesa Nacional","1981-09-04","1983-06-08"
+8,"Diogo Freitas do Amaral",588,"Vice Primeiro-Ministro","1981-09-04","1983-06-08"
+8,"Gonçalo Ribeiro Telles",,"Ministro de Estado e da Qualidade de Vida","1981-09-04","1983-06-08"
+8,"João Salgueiro",3270,"Ministro de Estado, das Finanças e do Plano","1981-09-04","1983-06-08"
+8,"Marcelo Rebelo de Sousa",,"Ministro dos Assuntos Parlamentares","1982-06-12","1983-06-08"
+8,"Fernando do Amaral",49,"Ministro Adjunto do Primeiro Ministro e dos Assuntos Parlamentares","1981-09-04","1982-06-12"
+8,"Ângelo Correia",,"Ministro da Administração Interna","1981-09-04","1983-06-08"
+8,"Vasco Futscher Pereira",,"Ministro dos Negócios Estrangeiros","1982-06-09","1983-06-08"
+8,"André Gonçalves Pereira",,"Ministro dos Negócios Estrangeiros","1981-09-04","1982-06-09"
+8,"José Menéres Pimentel",,"Ministro da Justiça e da Reforma Administrativa","1981-09-04","1983-06-08"
+8,"João Fraústo da Silva",,"Ministro da Educação e das Universidades","1982-06-12","1983-06-08"
+8,"Vitor Pereira Crespo",140,"Ministro da Educação e das Universidades","1981-09-04","1982-06-12"
+8,"Luís Morales",,"Ministro do Trabalho","1982-06-12","1983-06-08"
+8,"António Queirós Martins",,"Ministro do Trabalho","1981-09-04","1982-06-12"
+8,"Luís Barbosa",3420,"Ministro dos Assuntos Sociais","1981-09-04","1983-06-08"
+8,"Basílio Horta",1740,"Ministro da Agricultura, Comércio e Pescas","1981-09-04","1983-06-08"
+8,"Ricardo Bayão Horta",,"Ministro da Indústria, Energia e Exportação","1981-09-04","1983-06-08"
+8,"Francisco Lucas Pires",1429,"Ministro da Cultura e Coordenação Científica","1981-09-04","1983-06-08"
+8,"José Carlos Viana Baptista",,"Ministro da Habitação, Obras Públicas e Transportes","1981-09-04","1983-06-08"
+8,"Luísa Antas",,"Subsecretário de Estado Adjunto do Ministro dos Assuntos Parlamentares","1981-09-04","1983-06-08"
+8,"René Rodrigues da Silva",,"Subsecretário de Estado da Administração Escolar","1982-06-12","1983-06-08"
+8,"Amadeu Sá Menezes",3559,"Subsecretário de Estado da Agricultura","1982-06-12","1983-06-08"
+8,"Manuel Santana Castilho",,"Subsecretário de Estado dos Assuntos Pedagógicos","1982-06-12","1983-06-08"
+8,"Maria de Lurdes Orfão",,"Subsecretário de Estado do Orçamento","1981-09-04","1983-06-08"
+8,"Albino de Azevedo Soares",,"Subsecretário de Estado da Presidência do Conselho de Ministros","1981-09-04","1983-06-08"
+8,"Maria de Lurdes Orfão",,"Subsecretário de Estado do Orçamento","1981-09-04","1983-06-08"
+9,"Mário Soares",3177,"Primeiro-Ministro","1983-06-09","1985-11-05"
+9,"Rui Machete",134,"Vice Primeiro-Ministro","1985-02-15","1985-11-05"
+9,"Rui Machete",134,"Ministro da Defesa Nacional","1985-02-15","1985-11-05"
+9,"Carlos Mota Pinto",3273,"Vice Primeiro-Ministro","1983-06-09","1985-02-15"
+9,"Carlos Mota Pinto",3273,"Ministro da Defesa Nacional","1983-06-09","1985-02-15"
+9,"António de Almeida Santos",147,"Ministro de Estado","1983-06-09","1985-11-05"
+9,"Eduardo Pereira",164,"Ministro da Administração Interna","1983-06-09","1985-11-05"
+9,"Jaime Gama",173,"Ministro dos Negócios Estrangeiros","1983-06-09","1985-11-05"
+9,"Mário Raposo",3054,"Ministro da Justiça","1985-02-15","1985-11-05"
+9,"Rui Machete",134,"Ministro da Justiça","1983-06-09","1985-02-15"
+9,"Ernâni Lopes",,"Ministro das Finanças e Plano","1983-06-09","1985-11-05"
+9,"João de Deus Pinheiro",334,"Ministro da Educação","1985-02-15","1985-11-05"
+9,"José Augusto Seabra",3203,"Ministro da Educação","1983-06-09","1985-02-15"
+9,"Amândio de Azevedo",3239,"Ministro do Trabalho e Segurança Social","1983-06-09","1985-11-05"
+9,"António Maldonado Gonelha",3230,"Ministro da Saúde","1983-06-09","1985-11-05"
+9,"Álvaro Barreto",9,"Ministro da Agricultura","1984-10-17","1985-11-05"
+9,"Manuel Soares Costa",3042,"Ministro da Agricultura, Florestas e Alimentação","1983-06-09","1984-10-17"
+9,"José Veiga Simão",3147,"Ministro da Indústria e Energia","1983-06-09","1985-11-05"
+9,"Joaquim Ferreira do Amaral",287,"Ministro do Comércio e Turismo","1984-10-17","1985-11-05"
+9,"Álvaro Barreto",9,"Ministro do Comércio e Turismo","1983-06-09","1984-10-17"
+9,"António Coimbra Martins",3240,"Ministro da Cultura","1983-06-09","1985-11-05"
+9,"Carlos Melancia",3154,"Ministro do Equipamento Social","1985-02-15","1985-11-05"
+9,"João Rosado Correia",3085,"Ministro do Equipamento Social","1983-06-09","1985-02-15"
+9,"Francisco de Sousa Tavares",3465,"Ministro da Qualidade de Vida","1984-06-12","1985-11-05"
+9,"António Capucho",314,"Ministro da Qualidade de Vida","1983-06-09","1984-06-12"
+9,"José de Almeida Serra",,"Ministro do Mar","1985-02-15","1985-11-05"
+9,"Carlos Melancia",3154,"Ministro do Mar","1983-06-09","1985-02-15"
+9,"Alberto Amorim Pereira",,"Subsecretário de Estado do Orçamento","1983-06-18","1985-11-05"
+10,"Aníbal Cavaco Silva",312,"Primeiro-Ministro","1985-11-06","1987-08-16"
+10,"Eurico de Melo",256,"Ministro de Estado","1985-11-06","1987-08-16"
+10,"Eurico de Melo",256,"Ministro da Administração Interna","1985-11-06","1987-08-16"
+10,"Fernando Nogueira",333,"Ministro Adjunto e para os Assuntos Parlamentares","1985-11-06","1987-08-16"
+10,"Leonardo Ribeiro de Almeida",94,"Ministro da Defesa Nacional","1985-11-06","1987-08-16"
+10,"Pedro Pires de Miranda",,"Ministro dos Negócios Estrangeiros","1985-11-06","1987-08-16"
+10,"Miguel José Ribeiro Cadilhe",,"Ministro das Finanças","1985-11-06","1987-08-16"
+10,"Mário Raposo",3054,"Ministro da Justiça","1985-11-06","1987-08-16"
+10,"Luís Valente de Oliveira",376,"Ministro do Plano e Administração do Território","1985-11-06","1987-08-16"
+10,"Álvaro Barreto",9,"Ministro da Agricultura, Pescas e Alimentação","1985-11-06","1987-08-16"
+10,"Fernando Santos Martins",,"Ministro da Indústria e Comércio","1985-11-06","1987-08-16"
+10,"João de Deus Pinheiro",334,"Ministro da Educação e Cultura","1985-11-06","1987-08-16"
+10,"João Maria Oliveira Martins",69,"Ministro das Obras Públicas, Transportes e Comunicações","1985-11-06","1987-08-16"
+10,"Leonor Beleza",114,"Ministro da Saúde","1985-11-06","1987-08-16"
+10,"Luís Mira Amaral",348,"Ministro do Trabalho e Segurança Social","1985-11-06","1987-08-16"
+11,"Aníbal Cavaco Silva",312,"Primeiro-Ministro","1987-08-17","1991-10-30"
+11,"Fernando Nogueira",333,"Ministro da Presidência","1987-08-17","1991-10-30"
+11,"Fernando Nogueira",333,"Ministro da Defesa Nacional","1990-03-05","1991-10-30"
+11,"Carlos Brito",,"Ministro da Defesa Nacional","1990-01-05","1990-03-05"
+11,"Eurico de Melo",256,"Ministro da Defesa Nacional","1987-08-17","1990-01-05"
+11,"Eurico de Melo",256,"Vice Primeiro-Ministro","1987-08-17","1990-01-05"
+11,"Manuel Dias Loureiro",300,"Ministro dos Assuntos Parlamentares","1990-01-05","1991-10-30"
+11,"António Capucho",314,"Ministro dos Assuntos Parlamentares","1987-08-17","1991-10-30"
+11,"Miguel Beleza",,"Ministro das Finanças","1990-01-05","1991-10-30"
+11,"Miguel José Ribeiro Cadilhe",,"Ministro das Finanças","1987-08-17","1990-01-05"
+11,"Luís Valente de Oliveira",376,"Ministro do Planeamento e Administração do Território","1987-08-17","1991-10-30"
+11,"Manuel Pereira",,"Ministro da Administração Interna","1990-01-05","1991-10-30"
+11,"José Silveira Godinho",,"Ministro da Administração Interna","1987-08-17","1990-01-05"
+11,"Álvaro Laborinho Lúcio",306,"Ministro da Justiça","1990-03-05","1991-10-30"
+11,"Fernando Nogueira",333,"Ministro da Justiça","1987-08-17","1991-10-30"
+11,"João de Deus Pinheiro",334,"Ministro dos Negócios Estrangeiros","1987-08-17","1991-10-30"
+11,"Arlindo Cunha",335,"Ministro da Agricultura, Pescas e Alimentação","1990-01-05","1991-10-30"
+11,"Álvaro Barreto",9,"Ministro da Agricultura, Pescas e Alimentação","1987-08-17","1990-01-05"
+11,"Luís Mira Amaral",348,"Ministro da Indústria e Energia","1987-08-17","1991-10-30"
+11,"Roberto Carneiro",,"Ministro da Educação","1987-08-17","1991-10-30"
+11,"Joaquim Ferreira do Amaral",287,"Ministro das Obras Públicas, Transportes e Comunicações","1990-11-09","1991-10-30"
+11,"João Maria Oliveira Martins",69,"Ministro das Obras Públicas, Transportes e Comunicações","1987-08-17","1990-11-09"
+11,"Arlindo de Carvalho",335,"Ministro da Saúde","1990-01-05","1991-10-30"
+11,"Leonor Beleza",114,"Ministro da Saúde","1987-08-17","1990-01-05"
+11,"José Silva Peneda",270,"Ministro do Emprego e da Segurança Social","1987-08-17","1991-10-30"
+11,"Fernando Faria de Oliveira",,"Ministro do Comércio e Turismo","1990-11-09","1991-10-30"
+11,"Joaquim Ferreira do Amaral",287,"Ministro do Comércio e Turismo","1987-08-17","1990-11-09"
+11,"António Couto dos Santos",356,"Ministro Adjunto da Juventude","1987-08-17","1991-10-30"
+11,"Carlos Borrego",,"Ministro do Ambiente e Recursos Naturais","1991-04-24","1991-10-30"
+11,"Fernando Real",,"Ministro do Ambiente e Recursos Naturais","1990-01-05","1991-10-30"
+11,"Duarte Ivo Cruz",,"Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros","1990-03-05","1991-10-30"
+11,"Luís Marques Guedes",1239,"Subsecretário de Estado da Presidência do Conselho de Ministros","1990-01-09","1991-10-30"
+11,"Isabel Corte Real",,"Subsecretário de Estado da Modernização Administrativa","1989-01-31","1991-10-30"
+12,"Aníbal Cavaco Silva",312,"Primeiro-Ministro","1991-10-31","1995-10-27"
+12,"Luís Marques Mendes",370,"Ministro Adjunto","1992-03-19","1995-10-27"
+12,"António Couto dos Santos",356,"Ministro Adjunto e dos Assuntos Parlamentares","1991-10-31","1992-03-19"
+12,"Fernando Nogueira",333,"Ministro da Presidência","1991-10-31","1995-10-27"
+12,"António Figueiredo Lopes",1441,"Ministro da Defesa Nacional","1995-03-16","1995-10-27"
+12,"Fernando Nogueira",333,"Ministro da Defesa Nacional","1991-10-31","1995-03-16"
+12,"Manuel Dias Loureiro",300,"Ministro da Administração Interna","1991-10-31","1995-10-27"
+12,"Eduardo Catroga",,"Ministro das Finanças","1993-12-07","1995-10-27"
+12,"Jorge Braga de Macedo",,"Ministro das Finanças","1991-10-31","1993-12-07"
+12,"Luís Valente de Oliveira",376,"Ministro do Planeamento e Administração do Território","1991-10-31","1995-10-27"
+12,"Álvaro Laborinho Lúcio",306,"Ministro da Justiça","1991-10-31","1995-10-27"
+12,"José Manuel Durão Barroso",383,"Ministro dos Negócios Estrangeiros","1992-11-12","1995-10-27"
+12,"João de Deus Pinheiro",334,"Ministro dos Negócios Estrangeiros","1991-10-31","1992-11-12"
+12,"António Duarte Silva",,"Ministro da Agricultura","1994-05-21","1995-10-27"
+12,"Arlindo Cunha",335,"Ministro da Agricultura","1991-10-31","1994-05-21"
+12,"António Duarte Silva",,"Ministro do Mar","1995-03-16","1995-10-27"
+12,"Eduardo Azevedo Soares",,"Ministro do Mar","1991-10-31","1995-03-16"
+12,"Luís Mira Amaral",348,"Ministro da Indústria e Energia","1991-10-31","1995-10-27"
+12,"Manuela Ferreira Leite",319,"Ministro da Educação","1993-12-07","1995-10-27"
+12,"António Couto dos Santos",356,"Ministro da Educação","1992-03-19","1993-12-07"
+12,"Diamantino Durão",,"Ministro da Educação","1991-10-31","1992-03-19"
+12,"Joaquim Ferreira do Amaral",287,"Ministro das Obras Públicas, Transportes e Comunicações","1991-10-31","1995-10-27"
+12,"Paulo Mendo",1234,"Ministro da Saúde","1993-12-07","1995-10-27"
+12,"Arlindo de Carvalho",335,"Ministro da Saúde","1991-10-31","1993-12-07"
+12,"José Falcão e Cunha",82,"Ministro do Emprego e da Segurança Social","1993-12-07","1995-10-27"
+12,"José Silva Peneda",270,"Ministro do Emprego e da Segurança Social","1991-10-31","1993-12-07"
+12,"Fernando Faria de Oliveira",,"Ministro do Comércio e Turismo","1991-10-31","1995-10-27"
+12,"Teresa Gouveia",317,"Ministra do Ambiente e Recursos Naturais","1993-06-11","1995-10-27"
+12,"Carlos Borrego",,"Ministra do Ambiente e Recursos Naturais","1991-10-31","1993-06-11"
+12,"Carlos Coelho",,"Subsecretário de Estado Adjunto do Ministro da Educação","1994-07-25","1995-10-27"
+12,"Domingos Jerónimo",,"Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros","1992-11-12","1995-10-27"
+12,"Manuel Frexes",1434,"Subsecretário de Estado da Cultura","1992-11-12","1995-10-27"
+12,"Luís Marques Guedes",1239,"Subsecretário de Estado Adjunto do Primeiro-Ministro","1991-11-05","1993-12-07"
+12,"Vasco Valdez",,"Subsecretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento","1991-11-05","1993-12-07"
+12,"Duarte Ivo Cruz",,"Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros","1991-11-05","1992-11-12"
+12,"José Manuel Costa e Oliveira",,"Subsecretário de Estado Adjunto Ministro da Agricultura","1991-11-05","1993-12-07"
+12,"Amândio Oliveira",,"Subsecretário de Estado Adjunto do Secretário de Estado da Presidência do Conselho de Ministros","1991-11-05","1995-10-27"
+12,"Maria José Nogueira Pinto",1084,"Subsecretário de Estado Adjunto do Secretário de Estado para a Cultura","1991-11-05","1992-11-12"
+12,"António Sousa Lara",,"Subsecretário de Estado da Cultura","1991-11-05","1992-11-12"
+12,"Paulo Teixeira Pinto",,"Subsecretário de Estado da Presidência do Conselho de Ministros","1991-11-05","1992-06-09"
+13,"António Guterres",628,"Primeiro-Ministro","1995-10-28","1999-10-24"
+13,"José Sócrates",285,"Ministro Adjunto do Primeiro Ministro","1997-11-25","1999-10-24"
+13,"António Costa",156,"Ministro dos Assuntos Parlamentares","1997-11-25","1999-10-24"
+13,"Jaime Gama",173,"Ministro da Defesa Nacional","1999-05-29","1999-10-24"
+13,"José da Veiga Simão",,"Ministro da Defesa Nacional","1997-11-25","1999-05-29"
+13,"António Vitorino",1205,"Ministro da Defesa Nacional","1995-10-30","1997-11-25"
+13,"António Vitorino",1205,"Ministro da Presidência","1995-10-30","1997-11-25"
+13,"Jaime Gama",173,"Ministro dos Negócios Estrangeiros","1995-10-28","1999-10-24"
+13,"António Sousa Franco",3526,"Ministro das Finanças","1995-10-28","1999-10-24"
+13,"Jorge Coelho",180,"Ministro da Administração Interna","1997-11-25","1999-10-24"
+13,"Alberto Costa",143,"Ministro da Administração Interna","1995-10-30","1997-11-25"
+13,"Jorge Coelho",180,"Ministro Adjunto","1995-10-30","1999-10-24"
+13,"João Cravinho",459,"Ministro do Equipamento, Planeamento e Administração do Território","1995-10-28","1999-10-24"
+13,"José Vera Jardim",185,"Ministro da Justiça","1995-10-28","1999-10-24"
+13,"Joaquim Pina Moura",1267,"Ministro da Economia","1997-11-25","1999-10-24"
+13,"Augusto Mateus",,"Ministro da Economia","1996-03-27","1997-11-25"
+13,"Daniel Bessa",1261,"Ministro da Economia","1995-10-28","1996-03-27"
+13,"Luís Capoulas Santos",197,"Ministro da Agricultura, Desenvolvimento Rural e das Pescas","1998-10-03","1999-10-24"
+13,"Fernando Gomes da Silva",,"Ministro da Agricultura, Desenvolvimento Rural e das Pescas","1995-10-30","1998-10-03"
+13,"Eduardo Marçal Grilo",,"Ministro da Educação","1995-10-28","1999-10-24"
+13,"Maria de Belém Roseira",1671,"Ministro da Saúde","1995-10-28","1999-10-24"
+13,"Eduardo Ferro Rodrigues",163,"Ministro do Trabalho e Solidariedade","1995-10-28","1999-10-24"
+13,"Elisa Ferreira",1676,"Ministro do Ambiente","1995-10-28","1999-10-24"
+13,"Manuel Maria Carrilho",738,"Ministro da Cultura","1995-10-28","1999-10-24"
+13,"Mariano Gago",,"Ministro da Ciência e Tecnologia","1995-10-28","1999-10-24"
+13,"Henrique Constantino",,"Ministro do Equipamento Social","1995-10-30","1995-12-27"
+13,"Francisco Murteira Nabo",,"Ministro do Equipamento Social","1995-12-27","1996-01-15"
+13,"Maria João Rodrigues",,"Ministro da Qualificação e Emprego","1995-10-30","1997-11-25"
+14,"António Guterres",628,"Primeiro-Ministro","1999-10-25","2002-04-05"
+14,"Jaime Gama",173,"Ministro de Estado","1999-10-25","2002-04-05"
+14,"Jorge Coelho",180,"Ministro de Estado","2000-09-14","2001-03-10"
+14,"Jaime Gama",173,"Ministro dos Negócios Estrangeiros","1999-10-25","2002-04-05"
+14,"Jorge Coelho",180,"Ministro da Presidência","1999-10-25","2000-09-14"
+14,"Guilherme d'Oliveira Martins",170,"Ministro da Presidência","2000-09-14","2002-04-05"
+14,"Guilherme d'Oliveira Martins",170,"Ministro das Finanças","2001-07-03","2002-04-05"
+14,"Joaquim Pina Moura",1267,"Ministro das Finanças","1999-10-25","2001-07-03"
+14,"Rui Pena",3601,"Ministro da Defesa Nacional","2001-07-03","2002-04-05"
+14,"Júlio Castro Caldas",3494,"Ministro da Defesa Nacional","1999-10-25","2001-07-03"
+14,"Nuno Severiano Teixeira",,"Ministro da Administração Interna","2000-09-14","2002-04-05"
+14,"Fernando Gomes",1260,"Ministro da Administração Interna","1999-10-25","2000-09-14"
+14,"Jorge Coelho",180,"Ministro do Equipamento Social","1999-10-25","2001-03-10"
+14,"Eduardo Ferro Rodrigues",163,"Ministro do Equipamento Social","2001-03-10","2002-01-23"
+14,"José Sócrates",285,"Ministro do Equipamento Social","2002-01-23","2002-04-05"
+14,"José Sócrates",285,"Ministro do Ambiente e do Ordenamento do Território","1999-10-25","2002-04-05"
+14,"António Costa",156,"Ministro da Justiça","1999-10-25","2002-04-05"
+14,"Luís Braga da Cruz",2090,"Ministro da Economia","2001-07-03","2002-04-05"
+14,"Mário Cristina de Sousa",,"Ministro da Economia","2000-09-14","2001-07-03"
+14,"Joaquim Pina Moura",,"Ministro da Economia","1999-10-25","2000-09-14"
+14,"Elisa Ferreira",1676,"Ministra do Planeamento","1999-10-25","2002-04-05"
+14,"Luís Capoulas Santos",197,"Ministro da Agricultura, Desenvolvimento Rural e Pescas","1999-10-25","2002-04-05"
+14,"Guilherme d'Oliveira Martins",170,"Ministro da Educação","1999-10-25","2000-09-14"
+14,"Júlio Pedrosa",,"Ministro da Educação","2001-07-03","2002-04-05"
+14,"Augusto Santos Silva",1278,"Ministro da Educação","2000-09-14","2001-07-03"
+14,"Manuela Arcanjo",,"Ministro da Saúde","1999-10-25","2001-07-03"
+14,"António Correia de Campos",153,"Ministro da Saúde","2001-07-03","2002-04-05"
+14,"Eduardo Ferro Rodrigues",163,"Ministro do Trabalho e da Solidariedade","1999-10-25","2001-03-10"
+14,"Paulo Pedroso",,"Ministro do Trabalho e da Solidariedade","2001-03-10","2002-04-05"
+14,"Manuel Maria Carrilho",738,"Ministro da Cultura","1999-10-25","2000-07-12"
+14,"José Sasportes",,"Ministro da Cultura","2000-07-12","2001-07-03"
+14,"Augusto Santos Silva",1278,"Ministro da Cultura","2001-07-03","2002-04-05"
+14,"Mariano Gago",,"Ministro da Ciência e da Tecnologia","1999-10-25","2002-04-05"
+14,"Alberto Martins",462,"Ministro da Reforma do Estado e da Administração Pública","1999-10-25","2002-04-05"
+14,"José Lello",187,"Ministro da Juventude e do Desporto","2000-12-18","2002-04-05"
+14,"Armando Vara",158,"Ministro da Juventude e do Desporto","2000-09-14","2000-12-18"
+14,"Armando Vara",158,"Ministro Adjunto do Primeiro-Ministro","1999-10-25","2000-09-14"
+14,"António José Seguro",155,"Ministro Adjunto do Primeiro-Ministro","2001-07-03","2002-04-05"
+14,"Fernando Gomes",1260,"Ministro Adjunto","1999-10-25","2000-09-14"
+14,"Maria do Céu Cunha Rego",,"Secretário de Estado para a Igualdade","2001-07-04","2002-04-05"
+14,"Maria de Belém Roseira",1671,"Ministro da Igualdade","1999-10-25","2000-09-14"
+14,"José Magalhães",189,"Secretário de Estado dos Assuntos Parlamentares","2000-09-18","2002-04-06"
+15,"José Manuel Durão Barroso",383,"Primeiro-Ministro","2002-04-06","2004-07-16"
+15,"Manuela Ferreira Leite",319,"Ministra de Estado e das Finanças","2002-04-06","2004-07-16"
+15,"Paulo Portas",1352,"Ministro de Estado e da Defesa Nacional","2002-04-06","2004-07-16"
+15,"António Martins da Cruz",,"Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas","2002-04-06","2003-10-09"
+15,"Teresa Gouveia",317,"Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas","2003-10-09","2004-07-16"
+15,"António Figueiredo Lopes",1441,"Ministro da Administração Interna","2002-04-06","2004-07-16"
+15,"Celeste Cardona",1625,"Ministra da Justiça","2002-04-06","2004-07-16"
+15,"Nuno Morais Sarmento",1980,"Ministro da Presidência","2002-04-06","2004-07-16"
+15,"Luís Marques Mendes",370,"Ministro dos Assuntos Parlamentares","2002-04-06","2004-07-16"
+15,"José Luís Arnaut",1638,"Ministro Adjunto do Primeiro-Ministro","2002-04-06","2004-07-16"
+15,"Carlos Tavares",,"Ministro da Economia","2002-04-06","2004-07-16"
+15,"Armando Sevinate Pinto",,"Ministro da Agricultura, Desenvolvimento Rural e Pescas","2002-04-06","2004-07-16"
+15,"David Justino",1640,"Ministro da Educação","2002-04-06","2004-07-16"
+15,"Maria da Graça Carvalho",,"Ministra da Ciência e do Ensino Superior","2003-10-06","2004-07-16"
+15,"Pedro Lynce",4085,"Ministro da Ciência e do Ensino Superior","2002-04-06","2003-10-06"
+15,"Pedro Roseta",128,"Ministro da Cultura","2002-04-06","2004-07-16"
+15,"Luís Filipe Pereira",,"Ministro da Saúde","2002-04-06","2004-07-16"
+15,"António Bagão Félix",3399,"Ministro da Segurança Social e Trabalho","2002-04-06","2004-07-16"
+15,"Luís Valente de Oliveira",376,"Ministro das Obras Públicas, Transportes e Habitação","2002-04-06","2003-04-05"
+15,"António Carmona Rodrigues",,"Ministro das Obras Públicas, Transportes e Habitação","2003-04-05","2004-07-16"
+15,"Isaltino Morais",,"Ministro das Cidades, Ordenamento do Território e Ambiente","2002-04-06","2003-04-05"
+15,"Arlindo Cunha",335,"Ministro das Cidades, Ordenamento do Território e Ambiente","2004-05-21","2004-07-16"
+15,"Amílcar Theias",,"Ministro das Cidades, Ordenamento do Território e Ambiente","2003-04-05","2004-05-21"
+16,"Pedro Santana Lopes",315,"Primeiro-Ministro","2004-07-17","2005-03-11"
+16,"Álvaro Barreto",9,"Ministro de Estado, das Actividades Económicas e do Trabalho","2004-07-17","2005-03-11"
+16,"Paulo Portas",1352,"Ministro de Estado","2004-07-17","2005-03-11"
+16,"Paulo Portas",1352,"Ministro da Defesa Nacional e dos Assuntos do Mar","2004-07-17","2005-03-11"
+16,"Nuno Morais Sarmento",1980,"Ministro de Estado","2004-07-17","2005-03-11"
+16,"Nuno Morais Sarmento",1980,"Ministro da Presidência","2004-07-17","2005-03-11"
+16,"António Bagão Félix",3399,"Ministro das Finanças e da Administração Pública","2004-07-17","2005-03-11"
+16,"António Monteiro",,"Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas","2004-07-17","2005-03-11"
+16,"Daniel Sanches",,"Ministro da Administração Interna","2004-07-17","2005-03-11"
+16,"José Pedro Aguiar Branco",2061,"Ministro da Justiça","2004-07-17","2005-03-11"
+16,"José Luís Arnaut",1638,"Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional","2004-07-17","2005-03-11"
+16,"Carlos da Costa Neves",,"Ministro da Agricultura, Pescas e Florestas","2004-07-17","2005-03-11"
+16,"Maria do Carmo Seabra",,"Ministra da Educação","2004-07-17","2005-03-11"
+16,"Maria da Graça Carvalho",,"Ministra da Ciência, Inovação e Ensino Superior","2004-07-17","2005-03-11"
+16,"Luís Filipe Pereira",,"Ministro da Saúde","2004-07-17","2005-03-11"
+16,"Fernando Negrão",1905,"Ministro da Segurança Social, da Família e da Criança","2004-07-17","2005-03-11"
+16,"António Mexia",,"Ministro das Obras Públicas, Transportes e Comunicações","2004-07-17","2005-03-11"
+16,"Maria João Bustorff",,"Ministra da Cultura","2004-07-17","2005-03-11"
+16,"Luís Nobre Guedes",1083,"Ministro do Ambiente e do Ordenamento do Território","2004-07-17","2005-03-11"
+16,"Telmo Correia",1655,"Ministro do Turismo","2004-07-17","2005-03-11"
+16,"Rui Gomes da Silva",133,"Ministro Adjunto do Primeiro-Ministro","2004-12-02","2005-03-11"
+16,"Rui Gomes da Silva",133,"Ministro dos Assuntos Parlamentares","2004-07-21","2004-12-02"
+16,"Henrique Chaves",1645,"Ministro Adjunto do Primeiro-Ministro","2004-07-17","2004-12-02"
+17,"José Sócrates",285,"Primeiro-Ministro","2005-03-12","2009-10-25"
+17,"Luís Amado",538,"Ministro de Estado","2006-07-03","2009-10-25"
+17,"Diogo Freitas do Amaral",588,"Ministro de Estado","2005-03-12","2006-07-03"
+17,"Luís Amado",538,"Ministro dos Negócios Estrangeiros","2006-07-03","2009-10-25"
+17,"Diogo Freitas do Amaral",588,"Ministro dos Negócios Estrangeiros","2005-03-12","2006-07-03"
+17,"Teixeira dos Santos",,"Ministro de Estado","2005-07-21","2009-10-25"
+17,"António Costa",156,"Ministro de Estado","2005-03-12","2007-05-17"
+17,"Luís Campos e Cunha",,"Ministro de Estado","2005-03-12","2005-07-21"
+17,"Luís Campos e Cunha",,"Ministro das Finanças","2005-03-12","2005-07-21"
+17,"Teixeira dos Santos",,"Ministro das Finanças","2005-07-21","2009-10-25"
+17,"Manuel Pinho",2050,"Ministro da Economia e da Inovação","2005-03-12","2009-07-06"
+17,"Teixeira dos Santos",,"Ministro da Economia e da Inovação","2009-07-06","2009-10-25"
+17,"Pedro Silva Pereira",2011,"Ministro da Presidência","2005-03-12","2009-10-25"
+17,"Luís Amado",538,"Ministro da Defesa Nacional","2005-03-12","2006-07-03"
+17,"Nuno Severiano Teixeira",,"Ministro da Defesa Nacional","2006-07-03","2009-10-25"
+17,"Rui Pereira",,"Ministro da Administração Interna","2007-05-17","2009-10-25"
+17,"António Costa",156,"Ministro da Administração Interna e da Justiça","2005-03-12","2007-05-17"
+17,"Francisco Nunes Correia",,"Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional","2005-03-12","2009-10-25"
+17,"Jaime Silva",,"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas","2005-03-12","2009-10-25"
+17,"Mário Lino",,"Ministro das Obras Públicas, Transportes e Comunicações","2005-03-12","2009-10-25"
+17,"José Vieira da Silva",1867,"Ministro do Trabalho e da Solidariedade Social","2005-03-12","2009-10-25"
+17,"António Correia de Campos",153,"Ministra da Saúde","2005-03-12","2008-01-30"
+17,"Ana Jorge",3986,"Ministra da Saúde","2008-01-30","2009-10-25"
+17,"Maria de Lurdes Rodrigues",,"Ministra da Educação","2005-03-12","2009-10-25"
+17,"Mariano Gago",,"Ministro da Ciência, Tecnologia e Ensino Superior","2005-03-12","2009-10-25"
+17,"Isabel Pires de Lima",1672,"Ministro da Cultura","2005-03-12","2008-01-30"
+17,"José António Pinto Ribeiro",,"Ministro da Cultura","2008-01-30","2009-10-25"
+17,"Augusto Santos Silva",1278,"Ministro dos Assuntos Parlamentares","2005-03-12","2009-10-25"
+18,"José Sócrates",285,"Primeiro-Ministro","2009-10-26","2011-06-20"
+18,"Luís Amado",538,"Ministro de Estado e dos Negócios Estrangeiros","2009-10-26","2011-06-20"
+18,"Teixeira dos Santos",,"Ministro de Estado e das Finanças","2009-10-26","2011-06-20"
+18,"Pedro Silva Pereira",2011,"Ministro da Presidência","2009-10-26","2011-06-20"
+18,"Augusto Santos Silva",1278,"Ministro da Defesa Nacional","2009-10-26","2011-06-20"
+18,"Rui Pereira",,"Ministro da Administração Interna","2009-10-26","2011-06-20"
+18,"Alberto Martins",462,"Ministro da Justiça","2009-10-26","2011-06-20"
+18,"José Vieira da Silva",1867,"Ministro da Economia, da Inovação e do Desenvolvimento","2009-10-26","2011-06-20"
+18,"António Serrano",,"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas","2009-10-26","2011-06-20"
+18,"António Mendonça",,"Ministro das Obras Públicas, Transportes e Comunicações","2009-10-26","2011-06-20"
+18,"Dulce Pássaro",,"Ministra do Ambiente e do Ordenamento do Território","2009-10-26","2011-06-20"
+18,"Helena André",,"Ministra do Trabalho e da Solidariedade Social","2009-10-26","2011-06-20"
+18,"Ana Jorge",3986,"Ministra da Saúde","2009-10-26","2011-06-20"
+18,"Isabel Alçada",,"Ministra da Educação","2009-10-26","2011-06-20"
+18,"Mariano Gago",,"Ministro da Ciência, Tecnologia e Ensino Superior","2009-10-26","2011-06-20"
+18,"Gabriela Canavilhas",1851,"Ministra da Cultura","2009-10-26","2011-06-20"
+18,"Jorge Lacão",179,"Ministro dos Assuntos Parlamentares","2009-10-26","2011-06-20"
+19,"Pedro Passos Coelho",,"Primeiro-Ministro","21-06-2011",
+19,"Paulo Portas",,"Vice-Primeiro-Ministro","24-07-2013",
+19,"Vítor Gaspar",,"Ministro de Estado e das Finanças","21-06-2011","02-07-2013"
+19,"Maria Luís Albuquerque",,"Ministra de Estado e das Finanças","02-07-2013",
+19,"Paulo Portas",,"Ministro de Estado e dos Negócios Estrangeiros","21-06-2011","24-07-2013"
+19,"Rui Machete",,"Ministro de Estado e dos Negócios Estrangeiros","24-07-2013",
+19,"José Pedro Aguiar-Branco",,"Ministro da Defesa Nacional","21-06-2011",
+19,"Miguel Macedo",,"Ministro da Administração Interna","21-06-2011","19-11-2014"
+19,"Paula Teixeira da Cruz",,"Ministra da Justiça","21-06-2011",
+19,"Miguel Relvas",,"Ministro Adjunto e dos Assuntos Parlamentares","21-06-2011","13-04-2013"
+19,"Luís Marques Guedes",,"Ministro da Presidência e dos Assuntos Parlamentares","13-04-2013",
+19,"Miguel Poiares Maduro",,"Ministro Adjunto e do Desenvolvimento Regional","13-04-2013",
+19,"Álvaro Santos Pereira",,"Ministro da Economia e do Emprego","21-06-2011","24-07-2013"
+19,"António Pires de Lima",,"Ministro da Economia","24-07-2013",
+19,"Jorge Moreira da Silva",,"Ministro do Ambiente, Ordenamento do Território e Energia","24-07-2013",
+19,"Assunção Cristas",,"Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território","21-06-2011","24-07-2013"
+19,"Assunção Cristas",,"Ministra da Agricultura e do Mar","24-07-2013",
+19,"Paulo Macedo",,"Ministro da Saúde","21-06-2011",
+19,"Nuno Crato",,"Ministro da Educação e Ciência","21-06-2011",
+19,"Pedro Mota Soares",,"Ministro da Solidariedade e da Segurança Social","21-06-2011","24-07-2013"
+19,"Pedro Mota Soares",,"Ministro da Solidariedade, Emprego e Segurança Social","24-07-2013",
+19,"Luís Marques Guedes",,"Secretário de Estado da Presidência do Conselho de Ministros","21-06-2011","13-04-2013"
+19,"Carlos Moedas",,"Secretário de Estado Adjunto do Primeiro-Ministro","21-06-2011","10-09-2014"
+19,"Francisco Viegas",,"Secretário de Estado da Cultura","28-06-2011","26-10-2012"
+19,"Jorge Barreto Xavier",,"Secretário de Estado da Cultura","26-10-2012",
+19,"Miguel Morais Leitão",,"Secretário de Estado Adjunto do Vice-Primeiro-Ministro","26-07-2013",
+19,"Luís Morais Sarmento",,"Secretário de Estado do Orçamento","28-06-2011","02-07-2013"
+19,"Hélder Reis",,"Secretário de Estado Adjunto e do Orçamento","02-07-2013",
+19,"Maria Luís Albuquerque",,"Secretária de Estado do Tesouro e das Finanças","28-06-2011","26-10-2012"
+19,"Maria Luís Albuquerque",,"Secretária de Estado do Tesouro","26-10-2012","02-07-2013"
+19,"Joaquim Pais Jorge",,"Secretária de Estado do Tesouro","02-07-2013","09-08-20013"
+19,"Isabel Castelo Branco",,"Secretária de Estado do Tesouro","02-09-2013",
+19,"Manuel Rodrigues",,"Secretário de Estado das Finanças","26-10-2012",
+19,"Paulo Núncio",,"Secretário de Estado dos Assuntos Fiscais","28-06-2011",
+19,"Hélder Rosalino",,"Secretário de Estado da Administração Pública","28-06-2011",
+19,"José Leite Martins",,"Secretário de Estado da Administração Pública","30-12-2013",
+19,"Miguel Morais Leitão",,"Secretário de Estado Adjunto e dos Assuntos Europeus","28-06-2011","24-07-2013"
+19,"Luís Brites Pereira",,"Secretário de Estado dos Negócios Estrangeiros e Cooperação","28-06-2011","22-04-2013"
+19,"Francisco Almeida Leite",,"Secretário de Estado dos Negócios Estrangeiros e da Cooperação","22-04-2013","24-07-2013"
+19,"Luís Campos Ferreira",,"Secretário de Estado dos Negócios Estrangeiros e da Cooperação","26-07-2013",
+19,"Bruno Maçães",,"Secretário de Estado dos Assuntos Europeus","26-07-2013",
+19,"José Cesário",,"Secretário de Estado das Comunidades Portuguesas","28-06-2011",
+19,"Paulo Braga Lino",,"Secretário de Estado Adjunto e da Defesa Nacional","28-06-2011","22-04-2013"
+19,"Berta Cabral",,"Secretária de Estado Adjunta e da Defesa Nacional","22-04-2013",
+19,"Juvenal da Silva Peneda",,"Secretário de Estado Adjunto do Ministro da Administração Interna","07-07-2011","22-04-2013"
+19,"Fernando Alexandre",,"Secretário de Estado Adjunto do Ministro da Administração Interna","22-04-2013","19-11-2014"
+19,"Filipe Lobo d'Ávila",,"Secretário de Estado da Administração Interna","28-06-2011","30-12-2013"
+19,"João Almeida",,"Secretário de Estado da Administração Interna","30-12-2013",
+19,"Fernando Santo",,"Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça","28-06-2011","30-12-2013"
+19,"António Moura",,"Secretário de Estado da Justiça","30-12-2013",
+19,"Feliciano Barreiras Duarte",,"Secretário de Estado Adjunto do Ministro-Adjunto e dos Assuntos Parlamentares","28-06-2011","13-04-2013"
+19,"Teresa Morais",,"Secretária de Estado dos Assuntos Parlamentares e da Igualdade","28-06-2011",
+19,"Pedro Lomba",,"Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional","13-04-2013",
+19,"Joaquim Cardoso da Costa",,"Secretário de Estado para a Modernização Administrativa","13-04-2013",
+19,"Paulo Jorge Júlio",,"Secretária de Estado da Administração Local e da Reforma Administrativa","28-06-2011","01-02-2013"
+19,"António Leitão Amaro",,"Secretário de Estado da Administração Local","22-04-2013",
+19,"Manuel Castro Almeida",,"Secretário de Estado do Desenvolvimento Regional","22-04-2013",
+19,"Ana Rita Barosa",,"Secretária de Estado da Administração Local e da Reforma Administrativa","01-02-2013","13-04-2013"
+19,"Alexandre Mestre",,"Secretário de Estado do Desporto e Juventude","28-06-2011","13-04-2013"
+19,"Emídio Guerreiro",,"Secretário de Estado do Desporto e Juventude","13-04-2013",
+19,"António Almeida Henriques",,"Secretário de Estado Adjunto da Economia e Desenvolvimento Regional","28-06-2011","13-04-2013"
+19,"Leonardo Mathias",,"Secretário de Estado Adjunto e da Economia","26-07-2013",
+19,"Pedro Silva Martins",,"Secretário de Estado do Emprego","28-06-2011","01-02-2013"
+19,"Pedro Roque",,"Secretário de Estado do Emprego","01-02-2013","24-07-2013"
+19,"Carlos Oliveira",,"Secretário de Estado do Empreendedorismo, Competitividade e Inovação","28-06-2011","01-02-2013"
+19,"Franquelim Alves",,"Secretário de Estado do Empreendedorismo, Competitividade e Inovação","01-02-2013","24-07-2013"
+19,"Pedro Gonçalves",,"Secretário de Estado da Inovação, Investimento e Competitividade","26-07-2013",
+19,"Sérgio Silva Monteiro",,"Secretário de Estado das Obras Públicas, Transportes e Comunicações","28-06-2011","24-07-2013"
+19,"Sérgio Silva Monteiro",,"Secretário de Estado das Infraestruturas, Transportes e Comunicações","26-07-2013",
+19,"Henrique Gomes",,"Secretário de Estado da Energia","28-06-2011","13-03-2012"
+19,"Artur Trindade",,"Secretário de Estado da Energia","13-03-2012","24-07-2013"
+19,"Cecília Meireles",,"Secretário de Estado do Turismo","28-06-2011","01-02-2013"
+19,"Adolfo Mesquita Nunes",,"Secretário de Estado do Turismo","01-02-2013",
+19,"José Diogo Albuquerque",,"Secretário de Estado da Agricultura","28-06-2011","24-07-2013"
+19,"Daniel Campelo",,"Secretário de Estado das Florestas e do Desenvolvimento Rural","28-06-2011","01-02-2013"
+19,"Francisco Gomes da Silva",,"Secretário de Estado das Florestas e do Desenvolvimento Rural","01-02-2013","24-07-2013"
+19,"Manuel Pinto de Abreu",,"Secretário de Estado do Mar","28-06-2011","24-07-2013"
+19,"Pedro Paulo",,"Secretário de Estado do Ambiente e do Ordenamento do Território","28-06-2011","01-02-2013"
+19,"Paulo Lemos",,"Secretário de Estado do Ambiente e do Ordenamento do Território","01-02-2013","24-07-2013"
+19,"Paulo Lemos",,"Secretário de Estado do Ambiente","26-07-2013",
+19,"Artur Trindade",,"Secretário de Estado da Energia","26-07-2013",
+19,"Miguel Neto",,"Secretário de Estado do Ordenamento do Território e da Conservação da Natureza","26-07-2013",
+19,"José Diogo Albuquerque",,"Secretário de Estado da Agricultura","26-07-2013",
+19,"Francisco Gomes da Silva",,"Secretário de Estado das Florestas e do Desenvolvimento Rural","26-07-2013","02-10-2014"
+19,"Manuel Pinto de Abreu",,"Secretário de Estado do Mar","26-07-2013",
+19,"Nuno Vieira e Brito",,"Secretário de Estado da Alimentação e da Investigação Agroalimentar","01-02-2013",
+19,"Fernando Leal da Costa",,"Secretário de Estado Adjunto do Ministro da Saúde","28-06-2011",
+19,"Manuel Ferreira Teixeira",,"Secretário de Estado da Saúde","28-06-2011",
+19,"João Filipe Queiró",,"Secretário de Estado do Ensino Superior","28-06-2011","26-07-2013"
+19,"José Ferreira Gomes",,"Secretário de Estado do Ensino Superior","26-07-2013",
+19,"Leonor Parreira",,"Secretária de Estado da Ciência","28-06-2011",
+19,"João Casanova de Almeida",,"Secretário de Estado do Ensino e Administração Escolar","28-06-2011",
+19,"Isabel Santos Silva",,"Secretário de Estado do Ensino Básico e Secundário","28-06-2011","26-10-2012"
+19,"João Grancho",,"Secretário de Estado do Ensino Básico e Secundário","26-10-2012","21-10-2014"
+19,"Fernando Reis",,"Secretário de Estado do Ensino Básico e Secundário","21-10-2014",
+19,"Marco António Costa",,"Secretário de Estado da Solidariedade e da Segurança Social","28-06-2011","24-07-2013"
+19,"Agostinho Branquinho",,"Secretário de Estado da Solidariedade e da Segurança Social","26-07-2013",
+19,"Octávio Oliveira",,"Secretário de Estado do Emprego","26-07-2013",
+19,"Vânia Barros",,"Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros","28-06-2011","24-07-2013"
+19,"Vânia Barros",,"Subsecretária de Estado Adjunta do Vice-Primeiro-Ministro","26-07-2013",
