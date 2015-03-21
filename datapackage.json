@@ -93,19 +93,24 @@
       "schema": {
         "fields": [
           {
-            "name": "numero",
+            "name": "num_leg",
             "type": "integer",
             "description": "Número da legislatura"
           },
           {
+            "name": "num_sessoes",
+            "type": "integer",
+            "description": "Número de sessões legislativas"
+          },
+          {
             "name": "inicio",
             "type": "integer",
-            "description": "Data de início"
+            "description": "Ano de início"
           },
           {
             "name": "fim",
             "type": "integer",
-            "description": "Data de fim"
+            "description": "Ano de fim"
           }
         ]
       }
