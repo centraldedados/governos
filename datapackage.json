@@ -4,7 +4,7 @@
   "homepage": "http://centraldedados.pt/datasets/governos",
   "repository": "git://github.com/centraldedados/governos.git",
   "version": "0.2.0",
-  "description": "",
+  "description": "Governos, cargos e legislaturas",
   "license": "PDDL-1.0",
   "resources": [
     {
