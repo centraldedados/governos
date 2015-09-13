@@ -6,6 +6,12 @@
   "version": "0.2.0",
   "description": "Governos, cargos e legislaturas",
   "license": "PDDL-1.0",
+  "sources": [
+    {
+      "name": "Parlamento.pt",
+      "web": "http://www.parlamento.pt"
+    }
+  ],
   "resources": [
     {
       "name": "governos-cargos",
