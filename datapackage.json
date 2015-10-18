@@ -15,6 +15,7 @@
   "resources": [
     {
       "name": "governos-cargos",
+      "title": "Cargos nos Governos",
       "path": "data/governos-cargos.csv",
       "format": "csv",
       "mediatype": "text/csv",
@@ -56,6 +57,7 @@
     },
     {
       "name": "governos-pm",
+      "title": "Primeiros-Ministros",
       "path": "data/governos-pm.csv",
       "format": "csv",
       "mediatype": "text/csv",
@@ -92,6 +94,7 @@
     },
     {
       "name": "legislaturas",
+      "title": "Legislaturas",
       "path": "data/legislaturas.csv",
       "format": "csv",
       "mediatype": "text/csv",
