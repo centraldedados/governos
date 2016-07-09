@@ -6,7 +6,7 @@ A recolha dos dados foi obtida e editada manualmente a partir da informação p�
 
 ## Limitações
 
-A lista de cargos foi atualizada no final de 2013, e não contém eventuais mudanças de cargos que tenham acontecido desde então.
+Faltam os XX e XXI Governos na lista de ministros e secretários de estado.
 
 ## Licença
 
