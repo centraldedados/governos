@@ -555,49 +555,49 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 19,Octávio Oliveira,,Secretário de Estado do Emprego,26-07-2013,30-10-2015
 19,Vânia Barros,,Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros,28-06-2011,24-07-2013
 19,Vânia Barros,,Subsecretária de Estado Adjunta do Vice-Primeiro-Ministro,26-07-2013,30-10-2015
-21,António Costa,,Primeiro-Ministro,26-11-2015,
-21,Augusto Santos Silva,,Ministro dos Negócios Estrangeiros,26-11-2015,
-21,Maria Manuel Leitão Marques,,Ministra da Presidência e da Modernização Administrativa,26-11-2015,
-21,Mário Centeno,,Ministro das Finanças,26-11-2015,
+21,António Costa,156,Primeiro-Ministro,26-11-2015,
+21,Augusto Santos Silva,1278,Ministro dos Negócios Estrangeiros,26-11-2015,
+21,Maria Manuel Leitão Marques,6126,Ministra da Presidência e da Modernização Administrativa,26-11-2015,
+21,Mário Centeno,5829,Ministro das Finanças,26-11-2015,
 21,José Alberto Azeredo Lopes,,Ministro da Defesa Nacional,26-11-2015,
 21,Constança Urbano de Sousa,,Ministra da Administração Interna,26-11-2015,
 21,Francisca Van Dunem,,Ministra da Justiça,26-11-2015,
-21,Eduardo Cabrita,,Ministro Adjunto,26-11-2015,
-21,João Soares,,Ministro da Cultura,26-11-2015,14-04-2016
+21,Eduardo Cabrita,1987,Ministro Adjunto,26-11-2015,
+21,João Soares,1814,Ministro da Cultura,26-11-2015,14-04-2016
 21,Luís Filipe Castro Mendes,,Ministro da Cultura,14-04-2016,
 21,Manuel Heitor,,"Ministro da Ciência, Tecnologia e Ensino Superior",26-11-2015,
-21,Tiago Brandão Rodrigues,,Ministro da Educação,26-11-2015,
+21,Tiago Brandão Rodrigues,6112,Ministro da Educação,26-11-2015,
 21,José António Vieira da Silva,,"Ministro do Trabalho, Solidariedade e Segurança Social",26-11-2015,
 21,Adalberto Campos Fernandes,,Ministro da Saúde,26-11-2015,
-21,Pedro Marques,,Ministro do Planeamento e das Infraestruturas,26-11-2015,
-21,Manuel Caldeira Cabral,,Ministro da Economia,26-11-2015,
+21,Pedro Marques,2040,Ministro do Planeamento e das Infraestruturas,26-11-2015,
+21,Manuel Caldeira Cabral,5528,Ministro da Economia,26-11-2015,
 21,João Pedro Matos Fernandes,,Ministro do Ambiente,26-11-2015,
 21,Luís Capoulas Santos,,"Ministro da Agricultura, Florestas e Desenvolvimento Rural",26-11-2015,
-21,Ana Paula Vitorino,,Ministra do Mar,26-11-2015,
-21,Pedro Nuno Santos,,Secretário de Estado dos Assuntos Parlamentares,26-11-2015,
+21,Ana Paula Vitorino,2263,Ministra do Mar,26-11-2015,
+21,Pedro Nuno Santos,2051,Secretário de Estado dos Assuntos Parlamentares,26-11-2015,
 21,Mariana Vieira da Silva,,Secretária de Estado Adjunta do Primeiro-Ministro,26-11-2015,
 21,Miguel Prata Roque,,Secretário de Estado da Presidência do Conselho de Ministros,26-11-2015,14-07-2017
 21,Tiago Antunes,,Secretário de Estado da Presidência do Conselho de Ministros,14-07-2017,
-21,Graça Fonseca,,Secretária de Estado Adjunta e da Modernização Administrativa,26-11-2015,
+21,Graça Fonseca,5830,Secretária de Estado Adjunta e da Modernização Administrativa,26-11-2015,
 21,Carlos Manuel Soares Miguel,,Secretário de Estado das Autarquias Locais,26-11-2015,
-21,Catarina Marcelino,,Secretária de Estado para a Cidadania e a Igualdade,26-11-2015,
-21,Margarida Marques,,Secretária de Estado dos Assuntos Europeus,26-11-2015,14-07-2017
+21,Catarina Marcelino,2522,Secretária de Estado para a Cidadania e a Igualdade,26-11-2015,
+21,Margarida Marques,3339,Secretária de Estado dos Assuntos Europeus,26-11-2015,14-07-2017
 21,Ana Paula Zacarias ,,Secretária de Estado dos Assuntos Europeus,14-07-2017,
 21,Teresa Ribeiro,,Secretária de Estado dos Negócios Estrangeiros e da Cooperação,26-11-2015,
-21,José Luís Carneiro,,Secretário de Estado das Comunidades,26-11-2015,
+21,José Luís Carneiro,2105,Secretário de Estado das Comunidades,26-11-2015,
 21,Jorge Oliveira,,Secretário de Estado da Internacionalização,26-11-2015,14-07-2017
 21,Eurico Brilhante Dias ,,Secretário de Estado da Internacionalização,14-07-2017,
 21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto do Tesouro e das Finanças,26-07-2017,06-02-2017
 21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto e das Finanças,06-02-2017,
-21,Fernando Rocha Andrade,,Secretário de Estado dos Assuntos Fiscais,26-11-2015,14-07-2017
+21,Fernando Rocha Andrade,5500,Secretário de Estado dos Assuntos Fiscais,26-11-2015,14-07-2017
 21,António Mendonça Mendes,,Secretário de Estado dos Assuntos Fiscais,14-07-2017,
 21,João Leão,,Secretário de Estado do Orçamento,26-11-2015,
 21,Carolina Ferra,,Secretária de Estado da Administração e do Emprego Público,26-11-2015,14-07-2017
 21,Maria de Fátima Fonseca,,Secretária de Estado da Administração e do Emprego Público,14-07-2017,
 21,Álvaro Novo,,Secretário de Estado do Tesouro,06-02-2017,
-21,Marcos Perestrello,,Secretário de Estado da Defesa,26-11-2015,
-21,Isabel Oneto,,Secretária de Estado Adjunta e da Administração Interna,26-11-2015,
-21,Jorge Gomes,,Secretário de Estado da Administração Interna,26-11-2015,
+21,Marcos Perestrello,2209,Secretário de Estado da Defesa,26-11-2015,
+21,Isabel Oneto,4133,Secretária de Estado Adjunta e da Administração Interna,26-11-2015,
+21,Jorge Gomes,5587,Secretário de Estado da Administração Interna,26-11-2015,
 21,Helena Mesquita Ribeiro,,Secretária de Estado Adjunta e da Justiça,26-11-2015,
 21,Anabela Pedroso,,Secretária de Estado da Justiça,26-11-2015,
 21,Isabel Botelho Leal,,Secretário de Estado da Cultura,26-11-2015,14-04-2016
@@ -606,7 +606,7 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 21,Alexandra Leitão,,Secretária de Estado Adjunta e da Educação,26-11-2015,
 21,João Costa,,Secretário de Estado da Educação,26-11-2015,
 21,João Wengorovius Meneses,,Secretário de Estado da Juventude e do Desporto,26-11-2015,14-04-2016
-21,João Paulo Rebelo,,Secretário de Estado da Juventude e do Desporto,14-04-2016,
+21,João Paulo Rebelo,1735,Secretário de Estado da Juventude e do Desporto,14-04-2016,
 21,Miguel Cabrita,,Secretário de Estado do Emprego,26-11-2015,
 21,Cláudia Joaquim,,Secretária de Estado da Segurança Social,26-11-2015,
 21,Ana Sofia Antunes,,Secretária de Estado da Inclusão das Pessoas com Deficiência,26-11-2015,
@@ -615,16 +615,32 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 21,Nelson de Souza,,Secretário de Estado do Desenvolvimento e Coesão,26-11-2015,
 21,Guilherme Waldemar d'Oliveira Martins,,Secretário de Estado das Infraestruturas,26-11-2015,
 21,Paulo Ferreira,,Secretário de Estado Adjunto e do Comércio,26-11-2015,
-21,João Vasconcelos,,Secretário de Estado da Indústria,26-11-2015,14-07-2017
+21,João Vasconcelos,4022,Secretário de Estado da Indústria,26-11-2015,14-07-2017
 21,Ana Teresa Lehmann,,Secretário de Estado da Indústria,14-07-2017,
 21,Ana Mendes Godinho,,Secretária de Estado do Turismo,26-11-2015,
-21,Jorge Seguro Sanches,,Secretário de Estado da Energia,26-11-2015,
+21,Jorge Seguro Sanches,2227,Secretário de Estado da Energia,26-11-2015,
 21,José Mendes,,Secretário de Estado Adjunto e do Ambiente,26-11-2015,
-21,Carlos Martins,,Secretário de Estado do Ambiente,26-11-2015,
-21,Célia Ramos,,"Secretária de Estado do Ordenamento do Território e da Conservação da 
-Natureza",26-11-2015,
+21,Carlos Martins,299,Secretário de Estado do Ambiente,26-11-2015,
+21,Célia Ramos,,Secretária de Estado do Ordenamento do Território e da Conservação da Natureza,26-11-2015,
 21,Ana Pinho,,Secretária de Estado da Habitação,14-07-2017,
 21,Luís Medeiros Vieira,,Secretário de Estado da Agricultura e Alimentação,26-11-2015,
 21,Amândio Torres,,Secretário de Estado das Florestas e do Desenvolvimento Rural,26-11-2015,14-07-2017
 21,Miguel João de Freitas,,Secretário de Estado das Florestas e do Desenvolvimento Rural,14-07-2017,
-21,José Apolinário,,Secretário de Estado das Pescas,26-11-2015,
+21,José Apolinário,183,Secretário de Estado das Pescas,26-11-2015,
+20,Pedro Passos Coelho,129,Primeiro-Ministro,30-10-2015,26-11-2015
+20,Paulo Portas,1352,Vice-primeiro-ministro,30-10-2015,26-11-2015
+20,Maria Luís Albuquerque,4380,Ministra de Estado e das Finanças,30-10-2015,26-11-2015
+20,Rui Machete,134,Ministro de Estado e dos Negócios Estrangeiros,30-10-2015,26-11-2015
+20,José Pedro Aguiar-Branco,,Ministro da Defesa Nacional,30-10-2015,26-11-2015
+20,João Calvão da Silva,,Ministro da Administração Interna,30-10-2015,26-11-2015
+20,Fernando Negrão,1905,Ministro da Justiça,30-10-2015,26-11-2015
+20,Carlos Costa Neves,3963,Ministro dos Assuntos Parlamentares,30-10-2015,26-11-2015
+20,Luís Marques Guedes,1239,Ministro da Presidência e do Desenvolvimento Regional,30-10-2015,26-11-2015
+20,Miguel Morais Leitão,,Ministro da Economia,30-10-2015,26-11-2015
+20,Assunção Cristas,4057,Ministra da Agricultura e do Mar,30-10-2015,26-11-2015
+20,Jorge Moreira da Silva,1012,"Ministro do Ambiente, Ordenamento do Território e Energia",30-10-2015,26-11-2015
+20,Fernando Leal da Costa,,Ministro da Saúde,30-10-2015,26-11-2015
+20,Margarida Mano,5617,Ministra da Educação e Ciência,30-10-2015,26-11-2015
+20,Pedro Mota Soares,1102,"Ministro da Solidariedade, Emprego e Segurança Social",30-10-2015,26-11-2015
+20,Rui Medeiros,,Ministro da Modernização Administrativa,30-10-2015,26-11-2015
+20,Teresa Morais,1897,"Ministra da Cultura, Igualdade e Cidadania",30-10-2015,26-11-2015
