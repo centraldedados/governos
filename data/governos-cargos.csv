@@ -555,6 +555,23 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 19,Octávio Oliveira,,Secretário de Estado do Emprego,2013-07-26,2015-10-30
 19,Vânia Barros,,Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros,2011-06-28,2013-07-24
 19,Vânia Barros,,Subsecretária de Estado Adjunta do Vice-Primeiro-Ministro,2013-07-26,2015-10-30
+20,Pedro Passos Coelho,129,Primeiro-Ministro,2015-10-30,2015-11-26
+20,Paulo Portas,1352,Vice-primeiro-ministro,2015-10-30,2015-11-26
+20,Maria Luís Albuquerque,4380,Ministra de Estado e das Finanças,2015-10-30,2015-11-26
+20,Rui Machete,134,Ministro de Estado e dos Negócios Estrangeiros,2015-10-30,2015-11-26
+20,José Pedro Aguiar-Branco,,Ministro da Defesa Nacional,2015-10-30,2015-11-26
+20,João Calvão da Silva,,Ministro da Administração Interna,2015-10-30,2015-11-26
+20,Fernando Negrão,1905,Ministro da Justiça,2015-10-30,2015-11-26
+20,Carlos Costa Neves,3963,Ministro dos Assuntos Parlamentares,2015-10-30,2015-11-26
+20,Luís Marques Guedes,1239,Ministro da Presidência e do Desenvolvimento Regional,2015-10-30,2015-11-26
+20,Miguel Morais Leitão,,Ministro da Economia,2015-10-30,2015-11-26
+20,Assunção Cristas,4057,Ministra da Agricultura e do Mar,2015-10-30,2015-11-26
+20,Jorge Moreira da Silva,1012,"Ministro do Ambiente, Ordenamento do Território e Energia",2015-10-30,2015-11-26
+20,Fernando Leal da Costa,,Ministro da Saúde,2015-10-30,2015-11-26
+20,Margarida Mano,5617,Ministra da Educação e Ciência,2015-10-30,2015-11-26
+20,Pedro Mota Soares,1102,"Ministro da Solidariedade, Emprego e Segurança Social",2015-10-30,2015-11-26
+20,Rui Medeiros,,Ministro da Modernização Administrativa,2015-10-30,2015-11-26
+20,Teresa Morais,1897,"Ministra da Cultura, Igualdade e Cidadania",2015-10-30,2015-11-26
 21,António Costa,156,Primeiro-Ministro,2015-11-26,
 21,Augusto Santos Silva,1278,Ministro dos Negócios Estrangeiros,2015-11-26,
 21,Maria Manuel Leitão Marques,6126,Ministra da Presidência e da Modernização Administrativa,2015-11-26,
@@ -587,7 +604,7 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 21,José Luís Carneiro,2105,Secretário de Estado das Comunidades,2015-11-26,
 21,Jorge Oliveira,,Secretário de Estado da Internacionalização,2015-11-26,2017-07-14
 21,Eurico Brilhante Dias ,,Secretário de Estado da Internacionalização,2017-07-14,
-21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto do Tesouro e das Finanças,2017-07-26,2017-02-06
+21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto do Tesouro e das Finanças,2015-11-26,2017-02-06
 21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto e das Finanças,2017-02-06,
 21,Fernando Rocha Andrade,5500,Secretário de Estado dos Assuntos Fiscais,2015-11-26,2017-07-14
 21,António Mendonça Mendes,,Secretário de Estado dos Assuntos Fiscais,2017-07-14,
@@ -627,20 +644,3 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 21,Amândio Torres,,Secretário de Estado das Florestas e do Desenvolvimento Rural,2015-11-26,2017-07-14
 21,Miguel João de Freitas,,Secretário de Estado das Florestas e do Desenvolvimento Rural,2017-07-14,
 21,José Apolinário,183,Secretário de Estado das Pescas,2015-11-26,
-20,Pedro Passos Coelho,129,Primeiro-Ministro,2015-10-30,2015-11-26
-20,Paulo Portas,1352,Vice-primeiro-ministro,2015-10-30,2015-11-26
-20,Maria Luís Albuquerque,4380,Ministra de Estado e das Finanças,2015-10-30,2015-11-26
-20,Rui Machete,134,Ministro de Estado e dos Negócios Estrangeiros,2015-10-30,2015-11-26
-20,José Pedro Aguiar-Branco,,Ministro da Defesa Nacional,2015-10-30,2015-11-26
-20,João Calvão da Silva,,Ministro da Administração Interna,2015-10-30,2015-11-26
-20,Fernando Negrão,1905,Ministro da Justiça,2015-10-30,2015-11-26
-20,Carlos Costa Neves,3963,Ministro dos Assuntos Parlamentares,2015-10-30,2015-11-26
-20,Luís Marques Guedes,1239,Ministro da Presidência e do Desenvolvimento Regional,2015-10-30,2015-11-26
-20,Miguel Morais Leitão,,Ministro da Economia,2015-10-30,2015-11-26
-20,Assunção Cristas,4057,Ministra da Agricultura e do Mar,2015-10-30,2015-11-26
-20,Jorge Moreira da Silva,1012,"Ministro do Ambiente, Ordenamento do Território e Energia",2015-10-30,2015-11-26
-20,Fernando Leal da Costa,,Ministro da Saúde,2015-10-30,2015-11-26
-20,Margarida Mano,5617,Ministra da Educação e Ciência,2015-10-30,2015-11-26
-20,Pedro Mota Soares,1102,"Ministro da Solidariedade, Emprego e Segurança Social",2015-10-30,2015-11-26
-20,Rui Medeiros,,Ministro da Modernização Administrativa,2015-10-30,2015-11-26
-20,Teresa Morais,1897,"Ministra da Cultura, Igualdade e Cidadania",2015-10-30,2015-11-26
