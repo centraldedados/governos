@@ -572,7 +572,7 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 20,Pedro Mota Soares,1102,"Ministro da Solidariedade, Emprego e Segurança Social",2015-10-30,2015-11-26
 20,Rui Medeiros,,Ministro da Modernização Administrativa,2015-10-30,2015-11-26
 20,Teresa Morais,1897,"Ministra da Cultura, Igualdade e Cidadania",2015-10-30,2015-11-26
-21,António Costa,156,Primeiro-Ministro,2015-11-26,
+21,,156,Primeiro-Ministro,2015-11-26,
 21,Augusto Santos Silva,1278,Ministro dos Negócios Estrangeiros,2015-11-26,
 21,Maria Manuel Leitão Marques,6126,Ministra da Presidência e da Modernização Administrativa,2015-11-26,
 21,Mário Centeno,5829,Ministro das Finanças,2015-11-26,
@@ -599,11 +599,11 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 21,Carlos Manuel Soares Miguel,,Secretário de Estado das Autarquias Locais,2015-11-26,
 21,Catarina Marcelino,2522,Secretária de Estado para a Cidadania e a Igualdade,2015-11-26,
 21,Margarida Marques,3339,Secretária de Estado dos Assuntos Europeus,2015-11-26,2017-07-14
-21,Ana Paula Zacarias ,,Secretária de Estado dos Assuntos Europeus,2017-07-14,
+21,Ana Paula Zacarias,,Secretária de Estado dos Assuntos Europeus,2017-07-14,
 21,Teresa Ribeiro,,Secretária de Estado dos Negócios Estrangeiros e da Cooperação,2015-11-26,
 21,José Luís Carneiro,2105,Secretário de Estado das Comunidades,2015-11-26,
 21,Jorge Oliveira,,Secretário de Estado da Internacionalização,2015-11-26,2017-07-14
-21,Eurico Brilhante Dias ,,Secretário de Estado da Internacionalização,2017-07-14,
+21,Eurico Brilhante Dias,,Secretário de Estado da Internacionalização,2017-07-14,
 21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto do Tesouro e das Finanças,2015-11-26,2017-02-06
 21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto e das Finanças,2017-02-06,
 21,Fernando Rocha Andrade,5500,Secretário de Estado dos Assuntos Fiscais,2015-11-26,2017-07-14
@@ -644,3 +644,23 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 21,Amândio Torres,,Secretário de Estado das Florestas e do Desenvolvimento Rural,2015-11-26,2017-07-14
 21,Miguel João de Freitas,,Secretário de Estado das Florestas e do Desenvolvimento Rural,2017-07-14,
 21,José Apolinário,183,Secretário de Estado das Pescas,2015-11-26,
+22,António Costa,,Primeiro-Ministro,,
+22,Pedro Siza Vieira,,"Ministro de Estado, da Economia e da Transição Digital",,
+22,Augusto Santos Silva,,Ministro dos Negócios Estrangeiros,,
+22,Mariana Vieira da Silva,,Ministra de Estado e da Presidência,,
+22,Mário Centeno,,Ministro de Estado e das Finanças,,
+22,João Gomes Cravinho,,Ministro da Defesa Nacional,,
+22,Eduardo Cabrita,,Ministro da Administração Interna,,
+22,Francisca Van Dunem,,Ministra da Justiça,,
+22,Alexandra Leitão,,Ministra da Modernização do Estado e da Administração Pública,,
+22,Nelson de Souza,,Ministro do Planeamento,,
+22,Graça Fonseca,,Ministra da Cultura,,
+22,Manuel Heitor,,"Ministro da Ciência, Tecnologia e Ensino Superior",,
+22,Tiago Brandão Rodrigues,,Ministro da Educação,,
+22,Ana Mendes Godinho,,"Ministra do Trabalho, Solidariedade e da Solidariedade Social",,
+22,Marta Temido,,Ministra da Saúde,,
+22,João Pedro Matos Fernandes,,Ministro do Ambiente e da Ação Climática,,
+22,Pedro Nuno Santos,,Ministro das Infraestruturas e da Habitação,,
+22,Ana Abrunhosa,,Ministra da Coesão Territorial,,
+22,Maria do Céu Albuquerque,,Ministra da Agricultura,,
+22,Ricardo Serrão Santos,,Ministro do Mar,,
