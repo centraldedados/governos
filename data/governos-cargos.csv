@@ -572,95 +572,123 @@ num_gov,nome,mp_id,cargo,data_inicio,data_fim
 20,Pedro Mota Soares,1102,"Ministro da Solidariedade, Emprego e Segurança Social",2015-10-30,2015-11-26
 20,Rui Medeiros,,Ministro da Modernização Administrativa,2015-10-30,2015-11-26
 20,Teresa Morais,1897,"Ministra da Cultura, Igualdade e Cidadania",2015-10-30,2015-11-26
-21,,156,Primeiro-Ministro,2015-11-26,
-21,Augusto Santos Silva,1278,Ministro dos Negócios Estrangeiros,2015-11-26,
-21,Maria Manuel Leitão Marques,6126,Ministra da Presidência e da Modernização Administrativa,2015-11-26,
-21,Mário Centeno,5829,Ministro das Finanças,2015-11-26,
-21,José Alberto Azeredo Lopes,,Ministro da Defesa Nacional,2015-11-26,
-21,Constança Urbano de Sousa,,Ministra da Administração Interna,2015-11-26,
-21,Francisca Van Dunem,,Ministra da Justiça,2015-11-26,
-21,Eduardo Cabrita,1987,Ministro Adjunto,2015-11-26,
+21,António Costa,156,Primeiro-Ministro,2015-11-26,2019-10-25
+21,Augusto Santos Silva,1278,Ministro dos Negócios Estrangeiros,2015-11-26,2019-10-25
+21,Maria Manuel Leitão Marques,6126,Ministra da Presidência e da Modernização Administrativa,2015-11-26,2019-02-18
+21,Mariana Vieira da Silva,,Ministra da Presidência e da Modernização Administrativa,2019-02-18,2019-10-25
+21,Mário Centeno,5829,Ministro das Finanças,2015-11-26,2019-10-25
+21,José Alberto Azeredo Lopes,,Ministro da Defesa Nacional,2015-11-26,2018-10-15
+21,João Gomes Cravinho,,Ministro da Defesa Nacional,2018-10-15,2019-10-25
+21,Constança Urbano de Sousa,,Ministra da Administração Interna,2015-11-26,2017-10-21
+22,Eduardo Cabrita,,Ministro da Administração Interna,2017-10-21,2019-10-25
+21,Francisca Van Dunem,,Ministra da Justiça,2015-11-26,2019-10-25
+21,Eduardo Cabrita,1987,Ministro Adjunto,2015-11-26,2017-10-21
+21,Pedro Siza Vieira,,Ministro Adjunto,2017-10-21,2018-10-15
+21,Pedro Siza Vieira,,Ministro Adjunto e da Economia,2018-10-15,2019-10-25
 21,João Soares,1814,Ministro da Cultura,2015-11-26,2016-04-14
-21,Luís Filipe Castro Mendes,,Ministro da Cultura,2016-04-14,
-21,Manuel Heitor,,"Ministro da Ciência, Tecnologia e Ensino Superior",2015-11-26,
-21,Tiago Brandão Rodrigues,6112,Ministro da Educação,2015-11-26,
-21,José António Vieira da Silva,,"Ministro do Trabalho, Solidariedade e Segurança Social",2015-11-26,
-21,Adalberto Campos Fernandes,,Ministro da Saúde,2015-11-26,
-21,Pedro Marques,2040,Ministro do Planeamento e das Infraestruturas,2015-11-26,
-21,Manuel Caldeira Cabral,5528,Ministro da Economia,2015-11-26,
-21,João Pedro Matos Fernandes,,Ministro do Ambiente,2015-11-26,
-21,Luís Capoulas Santos,,"Ministro da Agricultura, Florestas e Desenvolvimento Rural",2015-11-26,
-21,Ana Paula Vitorino,2263,Ministra do Mar,2015-11-26,
-21,Pedro Nuno Santos,2051,Secretário de Estado dos Assuntos Parlamentares,2015-11-26,
-21,Mariana Vieira da Silva,,Secretária de Estado Adjunta do Primeiro-Ministro,2015-11-26,
+21,Luís Filipe Castro Mendes,,Ministro da Cultura,2016-04-14,2018-10-15
+21,Graça Fonseca,,Ministra da Cultura,2018-10-15,2019-10-25
+21,Manuel Heitor,,"Ministro da Ciência, Tecnologia e Ensino Superior",2015-11-26,2019-10-25
+21,Tiago Brandão Rodrigues,6112,Ministro da Educação,2015-11-26,2019-10-25
+21,José António Vieira da Silva,,"Ministro do Trabalho, Solidariedade e Segurança Social",2015-11-26,2019-10-25
+21,Adalberto Campos Fernandes,,Ministro da Saúde,2015-11-26,2018-10-15
+21,Marta Temido,,Ministra da Saúde,2018-10-15,2019-10-25
+21,Pedro Marques,2040,Ministro do Planeamento e das Infraestruturas,2015-11-26,2019-02-18
+21,Nelson de Souza,,Ministro do Planeamento,2019-02-18,2019-10-25
+21,Pedro Nuno Santos,,Ministro das Infraestruturas e da Habitação,2019-02-18,2019-10-25
+21,Manuel Caldeira Cabral,5528,Ministro da Economia,2015-11-26,2018-10-15
+21,João Pedro Matos Fernandes,,Ministro do Ambiente,2015-11-26,2018-10-15
+21,João Pedro Matos Fernandes,,Ministro do Ambiente e da Transição Energética,2018-10-15,2019-10-25
+21,Luís Capoulas Santos,,"Ministro da Agricultura, Florestas e Desenvolvimento Rural",2015-11-26,2019-10-25
+21,Ana Paula Vitorino,2263,Ministra do Mar,2015-11-26,2019-10-25
+21,Pedro Nuno Santos,2051,Secretário de Estado dos Assuntos Parlamentares,2015-11-26,2019-02-18
+21,Duarte Cordeiro,,Secretário de Estado Adjunto e dos Assuntos Parlamentares ,2019-02-18,2019-10-25
+21,Mariana Vieira da Silva,,Secretária de Estado Adjunta do Primeiro-Ministro,2015-11-26,2019-02-18
 21,Miguel Prata Roque,,Secretário de Estado da Presidência do Conselho de Ministros,2015-11-26,2017-07-14
-21,Tiago Antunes,,Secretário de Estado da Presidência do Conselho de Ministros,2017-07-14,
-21,Graça Fonseca,5830,Secretária de Estado Adjunta e da Modernização Administrativa,2015-11-26,
-21,Carlos Manuel Soares Miguel,,Secretário de Estado das Autarquias Locais,2015-11-26,
-21,Catarina Marcelino,2522,Secretária de Estado para a Cidadania e a Igualdade,2015-11-26,
+21,Tiago Antunes,,Secretário de Estado da Presidência do Conselho de Ministros,2017-07-14,2019-10-25
+21,Graça Fonseca,5830,Secretária de Estado Adjunta e da Modernização Administrativa,2015-11-26,2018-10-17
+21,Luís Goes Pinheiro,,Secretária de Estado Adjunta e da Modernização Administrativa,2018-10-17,2019-02-18
+21,Maria do Céu Albuquerque,,Secretária de Estado do Desenvolvimento Regional ,2019-02-18,2019-10-25
+21,Carlos Miguel,,Secretário de Estado das Autarquias Locais,2015-11-26,2019-10-25
+21,Catarina Marcelino,2522,Secretária de Estado para a Cidadania e a Igualdade,2015-11-26,2017-10-21
+21,Rosa Monteiro,,Secretária de Estado para a Cidadania e a Igualdade,2017-10-21,2019-10-25
 21,Margarida Marques,3339,Secretária de Estado dos Assuntos Europeus,2015-11-26,2017-07-14
-21,Ana Paula Zacarias,,Secretária de Estado dos Assuntos Europeus,2017-07-14,
-21,Teresa Ribeiro,,Secretária de Estado dos Negócios Estrangeiros e da Cooperação,2015-11-26,
-21,José Luís Carneiro,2105,Secretário de Estado das Comunidades,2015-11-26,
+21,Ana Paula Zacarias,,Secretária de Estado dos Assuntos Europeus,2017-07-14,2019-10-25
+21,Teresa Ribeiro,,Secretária de Estado dos Negócios Estrangeiros e da Cooperação,2015-11-26,2019-10-25
+21,José Luís Carneiro,2105,Secretário de Estado das Comunidades,2015-11-26,2019-10-25
 21,Jorge Oliveira,,Secretário de Estado da Internacionalização,2015-11-26,2017-07-14
-21,Eurico Brilhante Dias,,Secretário de Estado da Internacionalização,2017-07-14,
+21,Eurico Brilhante Dias,,Secretário de Estado da Internacionalização,2017-07-14,2019-10-25
 21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto do Tesouro e das Finanças,2015-11-26,2017-02-06
-21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto e das Finanças,2017-02-06,
+21,Ricardo Mourinho Félix,,Secretário de Estado Adjunto e das Finanças,2017-02-06,2019-10-25
 21,Fernando Rocha Andrade,5500,Secretário de Estado dos Assuntos Fiscais,2015-11-26,2017-07-14
-21,António Mendonça Mendes,,Secretário de Estado dos Assuntos Fiscais,2017-07-14,
+21,António Mendonça Mendes,,Secretário de Estado dos Assuntos Fiscais,2017-07-14,2019-10-25
 21,João Leão,,Secretário de Estado do Orçamento,2015-11-26,
 21,Carolina Ferra,,Secretária de Estado da Administração e do Emprego Público,2015-11-26,2017-07-14
-21,Maria de Fátima Fonseca,,Secretária de Estado da Administração e do Emprego Público,2017-07-14,
-21,Álvaro Novo,,Secretário de Estado do Tesouro,2017-02-06,
-21,Marcos Perestrello,2209,Secretário de Estado da Defesa,2015-11-26,
-21,Isabel Oneto,4133,Secretária de Estado Adjunta e da Administração Interna,2015-11-26,
-21,Jorge Gomes,5587,Secretário de Estado da Administração Interna,2015-11-26,
-21,Helena Mesquita Ribeiro,,Secretária de Estado Adjunta e da Justiça,2015-11-26,
-21,Anabela Pedroso,,Secretária de Estado da Justiça,2015-11-26,
+21,Maria de Fátima Fonseca,,Secretária de Estado da Administração e do Emprego Público,2017-07-14,2019-10-25
+21,Álvaro Novo,,Secretário de Estado do Tesouro,2017-02-06,2019-10-25
+21,Marcos Perestrello,2209,Secretário de Estado da Defesa Nacional,2015-11-26,2018-10-17
+21,Ana Santos Pinto,,Secretária de Estado da Defesa Nacional,2018-10-17,2019-10-25
+21,Isabel Oneto,4133,Secretária de Estado Adjunta e da Administração Interna,2015-11-26,2019-10-25
+21,Jorge Gomes,5587,Secretário de Estado da Administração Interna,2015-11-26,2017-10-21
+21,Helena Mesquita Ribeiro,,Secretária de Estado Adjunta e da Justiça,2015-11-26,2019-10-25
+21,Anabela Pedroso,,Secretária de Estado da Justiça,2015-11-26,2019-10-25
 21,Isabel Botelho Leal,,Secretário de Estado da Cultura,2015-11-26,2016-04-14
-21,Miguel Honrado,,Secretário de Estado da Cultura,2016-04-14,
-21,Maria Fernanda Rollo,,"Secretária de Estado da Ciência, Tecnologia e Ensino Superior",2015-11-26,
-21,Alexandra Leitão,,Secretária de Estado Adjunta e da Educação,2015-11-26,
-21,João Costa,,Secretário de Estado da Educação,2015-11-26,
+21,Miguel Honrado,,Secretário de Estado da Cultura,2016-04-14,2018-10-17
+21,Ângela Ferreira,,Secretária de Estado da Cultura,2018-10-17,2019-10-25
+21,Maria Fernanda Rollo,,"Secretária de Estado da Ciência, Tecnologia e Ensino Superior",2015-11-26,2018-10-17
+21,João Sobrinho Teixeira,,"Secretária de Estado da Ciência, Tecnologia e Ensino Superior",2018-10-17,2019-10-25
+21,Alexandra Leitão,,Secretária de Estado Adjunta e da Educação,2015-11-26,2019-10-25
+21,João Costa,,Secretário de Estado da Educação,2015-11-26,2019-10-25
 21,João Wengorovius Meneses,,Secretário de Estado da Juventude e do Desporto,2015-11-26,2016-04-14
-21,João Paulo Rebelo,1735,Secretário de Estado da Juventude e do Desporto,2016-04-14,
-21,Miguel Cabrita,,Secretário de Estado do Emprego,2015-11-26,
-21,Cláudia Joaquim,,Secretária de Estado da Segurança Social,2015-11-26,
-21,Ana Sofia Antunes,,Secretária de Estado da Inclusão das Pessoas com Deficiência,2015-11-26,
-21,Fernando Araújo,,Secretário de Estado Adjunto da Saúde,2015-11-26,
-21,Manuel Delgado,,Secretário de Estado da Saúde,2015-11-26,
-21,Nelson de Souza,,Secretário de Estado do Desenvolvimento e Coesão,2015-11-26,
-21,Guilherme Waldemar d'Oliveira Martins,,Secretário de Estado das Infraestruturas,2015-11-26,
-21,Paulo Ferreira,,Secretário de Estado Adjunto e do Comércio,2015-11-26,
+21,João Paulo Rebelo,1735,Secretário de Estado da Juventude e do Desporto,2016-04-14,2019-10-25
+21,Miguel Cabrita,,Secretário de Estado do Emprego,2015-11-26,2019-10-25
+21,Cláudia Joaquim,,Secretária de Estado da Segurança Social,2015-11-26,2019-10-25
+21,Ana Sofia Antunes,,Secretária de Estado da Inclusão das Pessoas com Deficiência,2015-11-26,2019-10-25
+21,Fernando Araújo,,Secretário de Estado Adjunto e da Saúde,2015-11-26,2018-10-17
+21,Francisco Ramos,,Secretário de Estado Adjunto e da Saúde,2018-10-17,2019-10-25
+21,Manuel Delgado,,Secretário de Estado da Saúde,2015-11-26,2017-12-12
+21,Rosa Valente de Matos,,Secretária de Estado da Saúde,2017-12-12,2018-10-17
+21,Raquel Duarte,,Secretária de Estado da Saúde,2018-10-17,2019-10-25
+21,Nelson de Souza,,Secretário de Estado do Desenvolvimento e Coesão,2015-11-26,2019-10-25
+21,Guilherme Waldemar d'Oliveira Martins,,Secretário de Estado das Infraestruturas,2015-11-26,2019-02-18
+21,Jorge Delgado,,Secretário de Estados das Infraestruturas,2019-02-18,2019-10-25
+21,Paulo Ferreira,,Secretário de Estado Adjunto e do Comércio,2015-11-26,2018-10-17
+21,Alberto Miranda,,Secretário de Estado Adjunto e das Comunicações ,2019-02-18,2019-10-25
 21,João Vasconcelos,4022,Secretário de Estado da Indústria,2015-11-26,2017-07-14
-21,Ana Teresa Lehmann,,Secretário de Estado da Indústria,2017-07-14,
+21,Ana Teresa Lehmann,,Secretário de Estado da Indústria,2017-07-14,2018-10-17
+21,João Neves,,Secretário de Estado da Economia,2018-10-17,2019-10-25
+21,João Torres,,Secretário de Estado da Defesa do Consumidor,2018-10-17,2019-10-25
+21,João Catarino,,Secretário de Estado da Valorização do Interior ,2018-10-17,2019-10-25
 21,Ana Mendes Godinho,,Secretária de Estado do Turismo,2015-11-26,
-21,Jorge Seguro Sanches,2227,Secretário de Estado da Energia,2015-11-26,
-21,José Mendes,,Secretário de Estado Adjunto e do Ambiente,2015-11-26,
-21,Carlos Martins,299,Secretário de Estado do Ambiente,2015-11-26,
-21,Célia Ramos,,Secretária de Estado do Ordenamento do Território e da Conservação da Natureza,2015-11-26,
-21,Ana Pinho,,Secretária de Estado da Habitação,2017-07-14,
-21,Luís Medeiros Vieira,,Secretário de Estado da Agricultura e Alimentação,2015-11-26,
+21,Jorge Seguro Sanches,2227,Secretário de Estado da Energia,2015-11-26,2018-10-17
+21,João Galamba,,Secretário de Estado da Energia,2018-10-17,2019-10-25
+21,José Mendes,,Secretário de Estado Adjunto e da Mobilidade,2015-11-26,2019-10-25
+21,Carlos Martins,299,Secretário de Estado do Ambiente,2015-11-26,2019-04-11
+21,João Ataíde,,Secretário de Estado do Ambiente,2019-04-11,2019-10-25
+21,Célia Ramos,,Secretária de Estado do Ordenamento do Território e da Conservação da Natureza,2015-11-26,2019-10-25
+21,Ana Pinho,,Secretária de Estado da Habitação,2017-07-14,2019-10-25
+21,Luís Medeiros Vieira,,Secretário de Estado da Agricultura e Alimentação,2015-11-26,2019-10-25
 21,Amândio Torres,,Secretário de Estado das Florestas e do Desenvolvimento Rural,2015-11-26,2017-07-14
-21,Miguel João de Freitas,,Secretário de Estado das Florestas e do Desenvolvimento Rural,2017-07-14,
-21,José Apolinário,183,Secretário de Estado das Pescas,2015-11-26,
-22,António Costa,,Primeiro-Ministro,,
-22,Pedro Siza Vieira,,"Ministro de Estado, da Economia e da Transição Digital",,
-22,Augusto Santos Silva,,Ministro dos Negócios Estrangeiros,,
-22,Mariana Vieira da Silva,,Ministra de Estado e da Presidência,,
-22,Mário Centeno,,Ministro de Estado e das Finanças,,
-22,João Gomes Cravinho,,Ministro da Defesa Nacional,,
-22,Eduardo Cabrita,,Ministro da Administração Interna,,
-22,Francisca Van Dunem,,Ministra da Justiça,,
-22,Alexandra Leitão,,Ministra da Modernização do Estado e da Administração Pública,,
-22,Nelson de Souza,,Ministro do Planeamento,,
-22,Graça Fonseca,,Ministra da Cultura,,
-22,Manuel Heitor,,"Ministro da Ciência, Tecnologia e Ensino Superior",,
-22,Tiago Brandão Rodrigues,,Ministro da Educação,,
-22,Ana Mendes Godinho,,"Ministra do Trabalho, Solidariedade e da Solidariedade Social",,
-22,Marta Temido,,Ministra da Saúde,,
-22,João Pedro Matos Fernandes,,Ministro do Ambiente e da Ação Climática,,
-22,Pedro Nuno Santos,,Ministro das Infraestruturas e da Habitação,,
-22,Ana Abrunhosa,,Ministra da Coesão Territorial,,
-22,Maria do Céu Albuquerque,,Ministra da Agricultura,,
-22,Ricardo Serrão Santos,,Ministro do Mar,,
+21,Miguel João de Freitas,,Secretário de Estado das Florestas e do Desenvolvimento Rural,2017-07-14,2019-10-25
+21,José Apolinário,183,Secretário de Estado das Pescas,2015-11-26,2019-10-25
+21,José Artur Neves,,Secretário de Estado da Proteção Civil ,2017-10-21,2019-09-18
+22,António Costa,156,Primeiro-Ministro,2019-10-26,
+22,Pedro Siza Vieira,,"Ministro de Estado, da Economia e da Transição Digital",2019-10-26,
+22,Augusto Santos Silva,,Ministro dos Negócios Estrangeiros,2019-10-26,
+22,Mariana Vieira da Silva,,Ministra de Estado e da Presidência,2019-10-26,
+22,Mário Centeno,,Ministro de Estado e das Finanças,2019-10-26,
+22,João Gomes Cravinho,,Ministro da Defesa Nacional,2019-10-26,
+22,Eduardo Cabrita,,Ministro da Administração Interna,2019-10-26,
+22,Francisca Van Dunem,,Ministra da Justiça,2019-10-26,
+22,Alexandra Leitão,,Ministra da Modernização do Estado e da Administração Pública,2019-10-26,
+22,Nelson de Souza,,Ministro do Planeamento,2019-10-26,
+22,Graça Fonseca,,Ministra da Cultura,2019-10-26,
+22,Manuel Heitor,,"Ministro da Ciência, Tecnologia e Ensino Superior",2019-10-26,
+22,Tiago Brandão Rodrigues,,Ministro da Educação,2019-10-26,
+22,Ana Mendes Godinho,,"Ministra do Trabalho, Solidariedade e da Solidariedade Social",2019-10-26,
+22,Marta Temido,,Ministra da Saúde,2019-10-26,
+22,João Pedro Matos Fernandes,,Ministro do Ambiente e da Ação Climática,2019-10-26,
+22,Pedro Nuno Santos,,Ministro das Infraestruturas e da Habitação,2019-10-26,
+22,Ana Abrunhosa,,Ministra da Coesão Territorial,2019-10-26,
+22,Maria do Céu Albuquerque,,Ministra da Agricultura,2019-10-26,
+22,Ricardo Serrão Santos,,Ministro do Mar,2019-10-26,
